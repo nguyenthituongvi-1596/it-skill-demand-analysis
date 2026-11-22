@@ -1,0 +1,426 @@
+﻿job_key,job_id,job_title,company,province,industry,description_length,has_any_skill,job_url
+1,g9d1zaNark,BIM Project Engineer - English [District 12],Digi-Texx Vietnam,Hồ Chí Minh,IT phần mềm,1021,0,https://123job.vn/viec-lam/bim-project-engineer-english-district-12-g9d1zaNark
+2,1qwOa5Zkq8,Hardware Engineer (Altium),Công Ty Cổ Phần Giải Pháp Công Nghệ Htsc,Hà Nội,IT phần mềm,1859,0,https://123job.vn/viec-lam/hardware-engineer-altium-1qwOa5Zkq8
+3,yreJzw2xqz,Hardware Engineer,Công Ty Cổ Phần Tập Đoàn Karofi,Bắc Giang,IT phần mềm,1481,0,https://123job.vn/viec-lam/hardware-engineer-yreJzw2xqz
+4,W9pX1jbM9p,Software Developer (Tiếng Nhật N3 Trở Lên),Công Ty TNHH Usol Việt Nam,Hòa Bình,IT phần mềm,3415,1,https://123job.vn/viec-lam/software-developer-tieng-nhat-n3-tro-len-W9pX1jbM9p
+5,mrEQopVQra,[District 12] BIM Project Engineer/ Manager - English,Digi-Texx Vietnam,Hồ Chí Minh,IT phần mềm,1021,0,https://123job.vn/viec-lam/district-12-bim-project-engineer-manager-english-mrEQopVQra
+6,zrMLzZPd9d,Lập Trình PC (Topv),Công Ty Trách Nhiệm Hữu Hạn Top Engineering Vina,Hà Nội,IT phần mềm,68,0,https://123job.vn/viec-lam/lap-trinh-pc-topv-zrMLzZPd9d
+7,PDbozpYz9R,Senior AI Engineer (Computer Vision/NLP/LLM) - Khối Công Nghệ Thông Tin (2026TD450878),Ngân Hàng Tmcp Quân Đội - Mbbank,Hà Nội,IT phần mềm,3288,1,https://123job.vn/viec-lam/senior-ai-engineer-computer-vision-nlp-llm-khoi-cong-nghe-thong-tin-2026td450878-PDbozpYz9R
+8,29Ggoa6A9E,AI Engineer (All Level - Computer Vision/NLP/LLM) - Khối Công Nghệ Thông Tin (2026TD450582),Ngân Hàng Tmcp Quân Đội - Mbbank,Hà Nội,IT phần mềm,4874,1,https://123job.vn/viec-lam/ai-engineer-all-level-computer-vision-nlp-llm-khoi-cong-nghe-thong-tin-2026td450582-29Ggoa6A9E
+9,JD60w2JBrn,Leader Java,2Nf Software,Hà Nội,IT phần mềm,1791,1,https://123job.vn/viec-lam/leader-java-JD60w2JBrn
+10,4q3Lp2ZgD2,Trưởng Nhóm Fullstack Java,Công Ty Cổ Phần Peasoft Việt Nam,Hà Nội,IT phần mềm,2785,1,https://123job.vn/viec-lam/truong-nhom-fullstack-java-4q3Lp2ZgD2
+11,JDajz3pN9G,Trưởng Nhóm Fullstack Engineer – AI (Tiếng Anh),Công Ty Cổ Phần Công Nghệ Phần Mềm Tinh Vân,Hà Nội,IT phần mềm,1362,1,https://123job.vn/viec-lam/truong-nhom-fullstack-engineer-ai-tieng-anh-JDajz3pN9G
+12,vrzBG1lbr0,Senior Java Developer - ID8750,Ngân Hàng Tmcp Việt Nam Thịnh Vượng (Vpbank),Hà Nội,IT phần mềm,2732,1,https://123job.vn/viec-lam/senior-java-developer-id8750-vrzBG1lbr0
+13,PDbozpJx9R,Lập Trình Viên Java Từ 3 Năm Kinh Nghiệm,Công Ty TNHH Digital Innovation,Hà Nội,IT phần mềm,2428,1,https://123job.vn/viec-lam/lap-trinh-vien-java-tu-3-nam-kinh-nghiem-PDbozpJx9R
+14,y9BwY6QyrA,Fullstack Developer,"Infiniq Vietnam Co.,Ltd",Hà Tĩnh,IT phần mềm,2365,1,https://123job.vn/viec-lam/fullstack-developer-y9BwY6QyrA
+15,LDlWzJebq6,"System Engineer (Datacenter, Openstack)",Công Ty TNHH MTV Viễn Thông Quốc Tế FPT,Hồ Chí Minh,IT phần mềm,2622,1,https://123job.vn/viec-lam/system-engineer-datacenter-openstack-LDlWzJebq6
+16,5qmEzYPNq8,NHÂN VIÊN IT,Công Ty Cổ Phần Cơ Điện Tử Newsun Asia,Hải Phòng,IT phần mềm,373,0,https://123job.vn/viec-lam/nhan-vien-it-5qmEzYPNq8
+17,lroWzNRMr4,Agentic Engineer (Python/Go/C/C++ Backend & AI Agents) - Khối Công Nghệ Thông Tin (2026TD450887),Ngân Hàng Tmcp Quân Đội - Mbbank,Hà Nội,IT phần mềm,4473,1,https://123job.vn/viec-lam/agentic-engineer-python-go-c-c-backend-ai-agents-khoi-cong-nghe-thong-tin-2026td450887-lroWzNRMr4
+18,v90o6MZeDk,Trưởng Nhóm Lập Trình Nhúng,Công Ty Cổ Phần Điện Tử Soji,Hà Nội,IT phần mềm,2522,1,https://123job.vn/viec-lam/truong-nhom-lap-trinh-nhung-v90o6MZeDk
+19,Oq5MaXbnqp,Senior Backend Developer (Python) – Ưu Tiên Kinh Nghiệm Data Crawling,Công Ty TNHH Vodaplay Việt Nam,Hà Nội,IT phần mềm,2451,1,https://123job.vn/viec-lam/senior-backend-developer-python-uu-tien-kinh-nghiem-data-crawling-Oq5MaXbnqp
+20,29ALjk8zDJ,AI Software Engineer (Python/Go/C/C++ Backend & AI Agents) - Khối Công Nghệ Thông Tin (2026TD450888),Ngân Hàng Tmcp Quân Đội - Mbbank,Hà Nội,IT phần mềm,4473,1,https://123job.vn/viec-lam/ai-software-engineer-python-go-c-c-backend-ai-agents-khoi-cong-nghe-thong-tin-2026td450888-29ALjk8zDJ
+21,39JmnkLEDm,Middle .NET Developer,Công Ty Cổ Phần Tư Vấn Công Nghệ Ngs,Hà Nội,IT phần mềm,3540,1,https://123job.vn/viec-lam/middle-net-developer-39JmnkLEDm
+22,5qmEzYO0q8,"Senior .Net Developer (C#, Lĩnh Vực Bank/Fintech/Ví Thanh Toán)",Công Ty Cổ Phần Lynkid,Điện Biên,IT phần mềm,2774,1,https://123job.vn/viec-lam/senior-net-developer-c-linh-vuc-bank-fintech-vi-thanh-toan-5qmEzYO0q8
+23,4q3LpQo5D2,Power BI Specialist,Damen Song Cam Shipyard (Dscs),Hải Phòng,IT phần mềm,68,1,https://123job.vn/viec-lam/power-bi-specialist-4q3LpQo5D2
+24,2rgPzmbXqG,DevOps/Cloud Engineer (AWS/OCI/Azure),Công Ty TNHH Systemexe Việt Nam,Hải Phòng,IT phần mềm,1957,1,https://123job.vn/viec-lam/devops-cloud-engineer-aws-oci-azure-2rgPzmbXqG
+25,ArX8AkoErV,Data Scientist (Lead),Công Ty Cổ Phần Đầu Tư Công Nghệ & Đổi Mới Việt,Hà Nội,IT phần mềm,2771,1,https://123job.vn/viec-lam/data-scientist-lead-ArX8AkoErV
+26,29ALjGnkDJ,Chuyên viên Quản trị mạng (IT Network),Công Ty Cổ Phần Chứng Khoán Asean,Hà Nội,IT phần cứng/mạng,881,0,https://123job.vn/viec-lam/chuyen-vien-quan-tri-mang-it-network-29ALjGnkDJ
+27,Oq5MaON1qp,Chuyên Viên Quản Trị Hệ Thống (IT System),Công Ty Cổ Phần Chứng Khoán Asean,Hà Nội,IT phần cứng/mạng,1725,1,https://123job.vn/viec-lam/chuyen-vien-quan-tri-he-thong-it-system-Oq5MaON1qp
+28,PDbozkmA9R,Chuyên Viên Quản Trị Hệ Thống System Admin,Công Ty TNHH Thương Mại Dịch Vụ Vi Tính Sao Mai,Hồ Chí Minh,IT phần cứng/mạng,936,0,https://123job.vn/viec-lam/chuyen-vien-quan-tri-he-thong-system-admin-PDbozkmA9R
+29,ArX8AAaErV,Network Engineer,Công Ty TNHH Airquay Vina,Hải Phòng,IT phần cứng/mạng,515,0,https://123job.vn/viec-lam/network-engineer-ArX8AAaErV
+30,JDajzMXG9G,Network Engineer - APAC,Công Ty TNHH Persolkelly Việt Nam,Hồ Chí Minh,IT phần cứng/mạng,1066,0,https://123job.vn/viec-lam/network-engineer-apac-JDajzMXG9G
+31,yreJzMz4qz,Network Administrator,Cmc Telecom,Hà Nội,IT phần cứng/mạng,4097,0,https://123job.vn/viec-lam/network-administrator-yreJzMz4qz
+32,1qwOaBaBq8,Network Virtualization Engineer (Network Cloud/ HPC-AI / NAAS),Cmc Telecom,Hà Nội,IT phần cứng/mạng,5682,1,https://123job.vn/viec-lam/network-virtualization-engineer-network-cloud-hpc-ai-naas-1qwOaBaBq8
+33,W9pX131O9p,Network Engineer (Kỹ sư quy hoạch và tối ưu mạng),Cmc Telecom,Hà Nội,IT phần cứng/mạng,3125,0,https://123job.vn/viec-lam/network-engineer-ky-su-quy-hoach-va-toi-uu-mang-W9pX131O9p
+34,Oq5MaNoRqp,KỸ SƯ IT NETWORK,Công Ty TNHH Electronic Tripod Việt Nam (Châu Đức),Bà Rịa Vũng Tàu,IT phần cứng/mạng,768,0,https://123job.vn/viec-lam/ky-su-it-network-Oq5MaNoRqp
+35,n9RwoQRXrb,Network Engineer - Tech Lounge AV Hanoi,Nab Innovation Centre Vietnam,Hà Nội,IT phần cứng/mạng,1863,0,https://123job.vn/viec-lam/network-engineer-tech-lounge-av-hanoi-n9RwoQRXrb
+36,y9BwY3PgrA,Senior/Expert Network Infrastructure Engineer,Công Ty Cổ Phần Thanh Toán Số Mobifone,Hà Nội,IT phần cứng/mạng,4135,0,https://123job.vn/viec-lam/senior-expert-network-infrastructure-engineer-y9BwY3PgrA
+37,JD60we3Vrn,Nhan vien quan tri mang Network Administrator,Unknown,Hồ Chí Minh,IT phần cứng/mạng,1665,0,https://123job.vn/viec-lam/nhan-vien-quan-tri-mang-network-administrator-JD60we3Vrn
+38,1qwOaKWkq8,Network System Administrator,Phu Hung Securities (Phs),Hồ Chí Minh,IT phần cứng/mạng,687,1,https://123job.vn/viec-lam/network-system-administrator-1qwOaKWkq8
+39,5qmEzVvwq8,Nhân viên hạ tầng,Bệnh Viện Quốc Tế Phương Châu - Cần Thơ,Cần Thơ,IT phần cứng/mạng,1528,1,https://123job.vn/viec-lam/nhan-vien-ha-tang-5qmEzVvwq8
+40,BDnBzVneDR,TUYỂN DỤNG NETWORK ENGINEER (Junior – Senior),Công Ty TNHH Gpns Global Door,Hồ Chí Minh,IT phần cứng/mạng,384,0,https://123job.vn/viec-lam/tuyen-dung-network-engineer-junior-senior-BDnBzVneDR
+41,5qmEzg3Zq8,[HCM] Trung Tâm Tin Học - Quản Trị Mạng VNPRO Tuyển Dụng Nhân Viên IT Network Full-time 2026,Mỹ Huyền Bùi,Hồ Chí Minh,IT phần cứng/mạng,2218,0,https://123job.vn/viec-lam/hcm-trung-tam-tin-hoc-quan-tri-mang-vnpro-tuyen-dung-nhan-vien-it-network-full-time-2026-5qmEzg3Zq8
+42,j9KQo7b1qA,Chuyên viên Quản trị hệ thống (Cloud System),Công Ty Chứng Khoán Acb,Hồ Chí Minh,IT phần cứng/mạng,2886,1,https://123job.vn/viec-lam/chuyen-vien-quan-tri-he-thong-cloud-system-j9KQo7b1qA
+43,n9RwozARrb,Chuyên viên Quản trị hệ thống (Cloud System),Công Ty Chứng Khoán Acb,Hồ Chí Minh,IT phần cứng/mạng,2764,1,https://123job.vn/viec-lam/chuyen-vien-quan-tri-he-thong-cloud-system-n9RwozARrb
+44,BDnBzg3oDR,Senior Network Engineer,Công Ty TNHH Shelby Global,Hồ Chí Minh,IT phần cứng/mạng,8006,1,https://123job.vn/viec-lam/senior-network-engineer-BDnBzg3oDR
+45,ArX8AZ0ZrV,"Network Engineer Firewall, System Admin, IT Support",Saigon New Port,Hồ Chí Minh,IT phần cứng/mạng,1910,0,https://123job.vn/viec-lam/network-engineer-firewall-system-admin-it-support-ArX8AZ0ZrV
+46,P9YVobR1ra,Network Engineer,FPT Telecom International,Hồ Chí Minh,IT phần cứng/mạng,1187,0,https://123job.vn/viec-lam/network-engineer-P9YVobR1ra
+47,4q3LpnzdD2,Network Engineer (Infrastructure),Công Ty TNHH Persolkelly Việt Nam,Hồ Chí Minh,IT phần cứng/mạng,1660,1,https://123job.vn/viec-lam/network-engineer-infrastructure-4q3LpnzdD2
+48,1qwOa70Jq8,"Network Engineer Cisco, Firewall, System Admin",Công Ty Cổ Phần Chứng Khoán Dầu Khí (Psi),Hà Nội,IT phần cứng/mạng,938,0,https://123job.vn/viec-lam/network-engineer-cisco-firewall-system-admin-1qwOa70Jq8
+49,3qZaz73ar4,Kỹ sư IT (phần cứng),Công Ty TNHH Công Nghiệp Chính Xác Việt Nam 1 - Vĩnh Phúc,Vĩnh Phúc,IT phần cứng/mạng,319,0,https://123job.vn/viec-lam/ky-su-it-phan-cung-3qZaz73ar4
+50,o9jyv7QXDR,Network Security Intern,FPT Is,Hà Nội,IT phần cứng/mạng,628,0,https://123job.vn/viec-lam/network-security-intern-o9jyv7QXDR
+51,wDWZoWbaqe,Chuyên Viên Quản Trị Hệ Thống – Khối Công Nghệ,Ngân Hàng Thương Mại Cổ Phần Kiên Long,Hồ Chí Minh,IT phần cứng/mạng,2307,1,https://123job.vn/viec-lam/chuyen-vien-quan-tri-he-thong-khoi-cong-nghe-wDWZoWbaqe
+52,vrzBGZR2r0,Nhân Viên IT (System & Network),Công Ty TNHH Nissei Electric Mytho,Tiền Giang,IT phần cứng/mạng,733,0,https://123job.vn/viec-lam/nhan-vien-it-system-network-vrzBGZR2r0
+53,y9BwYxgPrA,Nhân viên MCN (Multi-Channel Network),Adpia,Hà Nội,IT phần cứng/mạng,1719,0,https://123job.vn/viec-lam/nhan-vien-mcn-multi-channel-network-y9BwYxgPrA
+54,2rgPzeedqG,Quản Trị Hệ Thống,Ngân Hàng Tmcp Việt Nam Thịnh Vượng (Vpbank),Unknown,Unknown,7396,1,https://123job.vn/viec-lam/quan-tri-he-thong-2rgPzeedqG
+55,5qmEzvW6q8,IT NETWORK,Tập Đoàn Thiên Long,Hồ Chí Minh,IT phần cứng/mạng,112,0,https://123job.vn/viec-lam/it-network-5qmEzvW6q8
+56,g9d1zn1erk,Project Manager (IT/System/Clould/Network),FPT Telecom International,Hồ Chí Minh,IT phần cứng/mạng,2245,1,https://123job.vn/viec-lam/project-manager-it-system-clould-network-g9d1zn1erk
+57,5qmEzWQzq8,Junior Civil Engineer (Openroads – Infrastructure) / Kỹ Sư Hạ Tầng,Atlas Industries (Vietnam) Limited,Unknown,Unknown,4470,1,https://123job.vn/viec-lam/junior-civil-engineer-openroads-infrastructure-ky-su-ha-tang-5qmEzWQzq8
+58,29ALjglODJ,Chuyên Viên Hạ Tầng (Network/ Security),Công Ty Cổ Phần Tin Học Viễn Thông Petrolimex (Piacom),Unknown,Unknown,4976,0,https://123job.vn/viec-lam/chuyen-vien-ha-tang-network-security-29ALjglODJ
+59,JD60Yjv5rn,Fulfillment Center Manager,Công Ty TNHH Shelby Global,Unknown,Unknown,5433,0,https://123job.vn/viec-lam/fulfillment-center-manager-JD60Yjv5rn
+60,mrEQ0m1Jra,QA ENGINEER,Công Ty TNHH Tin Học & Dịch Vụ Nam Long,Hồ Chí Minh,QA-QC/ Thẩm định/ Giám định,1862,1,https://123job.vn/viec-lam/qa-engineer-mrEQ0m1Jra
+61,v91BPz3orW,"DevOps Engineer Python, AWS, Linux",Techcom Securities,Hà Nội,IT phần mềm,1191,1,https://123job.vn/viec-lam/devops-engineer-python-aws-linux-v91BPz3orW
+62,LDlW4050q6,Senior Business Analyst,Công Ty Cổ Phần Pt Hub,Unknown,Unknown,4397,0,https://123job.vn/viec-lam/senior-business-analyst-LDlW4050q6
+63,v90omwj2Dk,[HCM] Công Ty Phần Mềm TMA Solutions Tuyển Dụng Thực Tập Sinh Marketing Part-time/Full-time 2026,TMA Tech Group,Unknown,Unknown,6087,0,https://123job.vn/viec-lam/hcm-cong-ty-phan-mem-tma-solutions-tuyen-dung-thuc-tap-sinh-marketing-part-time-full-time-2026-v90omwj2Dk
+64,P9YVMOMWra,PHP Developer Intern,Công Ty TNHH Reputyze Asia,Hồ Chí Minh,IT phần mềm,407,1,https://123job.vn/viec-lam/php-developer-intern-P9YVMOMWra
+65,ArX8AkYErV,Fullstack Developer,Hippo Technology Company Limited,Hồ Chí Minh,IT phần mềm,2270,1,https://123job.vn/viec-lam/fullstack-developer-ArX8AkYErV
+66,29Gg1RWy9E,Junior Fullstack Developer,Công Ty TNHH Reputyze Asia,Hồ Chí Minh,IT phần mềm,569,1,https://123job.vn/viec-lam/junior-fullstack-developer-29Gg1RWy9E
+67,KqLaOkxXD1,"Lập Trình Viên Full - Stack Java Developer (Onsite) - Thu Nhập Up To 26 Triệu - Nghỉ Thứ Bảy, Chủ Nhật",Công Ty Cổ Phần Ecoit,Hà Nội,IT phần mềm,579,1,https://123job.vn/viec-lam/lap-trinh-vien-full-stack-java-developer-onsite-thu-nhap-up-to-26-trieu-nghi-thu-bay-chu-nhat-KqLaOkxXD1
+68,LDlWzjRjq6,Nhân Viên Business Developer Drone/UAV,Công Ty TNHH Công Nghệ Xb,Đà Nẵng,IT phần mềm,429,0,https://123job.vn/viec-lam/nhan-vien-business-developer-drone-uav-LDlWzjRjq6
+69,ND4ZK7ZXrv,Fullstack Developer,Zinza,Hà Nội,IT phần mềm,328,1,https://123job.vn/viec-lam/fullstack-developer-ND4ZK7ZXrv
+70,v90oNgRZDk,Database Developer,Hd Daison,Hồ Chí Minh,IT phần mềm,720,1,https://123job.vn/viec-lam/database-developer-v90oNgRZDk
+71,v90o6OgPDk,Backend Developer (Java),Công Ty Cổ Phần Đầu Tư Thế Giới Di Động,Hồ Chí Minh,IT phần mềm,2566,1,https://123job.vn/viec-lam/backend-developer-java-v90o6OgPDk
+72,G9xYwvL7rN,Angular Developer (Lead),Công Ty Cổ Phần Công Nghệ Alphaway,Hà Nội,IT phần mềm,2216,1,https://123job.vn/viec-lam/angular-developer-lead-G9xYwvL7rN
+73,ND4ZKBL6rv,Fullstack Developer (Angular+Java),Công Ty Cổ Phần Tư Vấn Công Nghệ Ngs,Hà Nội,IT phần mềm,2754,1,https://123job.vn/viec-lam/fullstack-developer-angularjava-ND4ZKBL6rv
+74,2rgPzwLdqG,FrontEnd Developer Expert (Mobile),Công Ty Tài Chính Tổng Hợp Trách Nhiệm Hữu Hạn Một Thành Viên Lotte Việt Nam,Hà Nội,IT phần mềm,2804,1,https://123job.vn/viec-lam/frontend-developer-expert-mobile-2rgPzwLdqG
+75,JD60wZnnrn,[HÀ NỘI] CÔNG TY CỔ PHẦN LENDI TUYỂN DỤNG FULL-STACK DEVELOPER (HYBRID),Công Ty Cổ Phần Lendi,Hà Nội,IT phần mềm,692,0,https://123job.vn/viec-lam/ha-noi-cong-ty-co-phan-lendi-tuyen-dung-full-stack-developer-hybrid-JD60wZnnrn
+76,Oq5MaylGqp,Full Stack Developer,Ct Group Việt Nam,Hồ Chí Minh,IT phần mềm,941,0,https://123job.vn/viec-lam/full-stack-developer-Oq5MaylGqp
+77,ND4ZK0jJrv,Android Developer (Leader),Công Ty Cổ Phần Công Nghệ Alphaway,Hà Nội,IT phần mềm,1337,1,https://123job.vn/viec-lam/android-developer-leader-ND4ZK0jJrv
+78,P9YVokG1ra,Fullstack Developer (Python / Vue.Js),Công Ty Cổ Phần Kinh Doanh Bất Động Sản Mayhomes,Hồ Chí Minh,IT phần mềm,652,1,https://123job.vn/viec-lam/fullstack-developer-python-vuejs-P9YVokG1ra
+79,vrzBGvN7r0,MIDDLE FRONTEND DEVELOPER – Canvas LMS | Thu Nhập 25M++,Edufit,Hà Nội,IT phần mềm,2849,1,https://123job.vn/viec-lam/middle-frontend-developer-canvas-lms-thu-nhap-25m-vrzBGvN7r0
+80,4qQ4o0wGrX,Tech Lead Backend Developer (Java),Vndirect,Hà Nội,IT phần mềm,3612,1,https://123job.vn/viec-lam/tech-lead-backend-developer-java-4qQ4o0wGrX
+81,4q3Lp4B7D2,"Senior Developer (NodeJS, ReactJS, AI)",Công Ty TNHH Dekon Việt Nam,Hồ Chí Minh,IT phần mềm,2545,1,https://123job.vn/viec-lam/senior-developer-nodejs-reactjs-ai-4q3Lp4B7D2
+82,5qmEzmb0q8,.NET/C# WINFORMS DEVELOPER (FRESHER/JUNIOR),Công Ty Cổ Phần Tecotec Group,Hà Nội,IT phần mềm,1181,1,https://123job.vn/viec-lam/net-c-winforms-developer-fresher-junior-5qmEzmb0q8
+83,ArX8AeW6rV,Backend Developer (Golang),As Solutions,Hồ Chí Minh,IT phần mềm,1999,1,https://123job.vn/viec-lam/backend-developer-golang-ArX8AeW6rV
+84,0q77e65Bq8,Software Developer (C++/Golang),As Solutions,Hồ Chí Minh,IT phần mềm,1932,1,https://123job.vn/viec-lam/software-developer-c-golang-0q77e65Bq8
+85,v91BPNaKrW,Developer Lập Trình Web,Công Ty TNHH Bcvv,Hưng Yên,IT phần mềm,2045,1,https://123job.vn/viec-lam/developer-lap-trinh-web-v91BPNaKrW
+86,j9KQoNRAqA,Full-stack Developer (ReactJS),Công Ty Cổ Phần Đầu Tư Mặt Trời Việt,Hồ Chí Minh,IT phần mềm,406,1,https://123job.vn/viec-lam/full-stack-developer-reactjs-j9KQoNRAqA
+87,g9d1zxZdrk,Junior/Middle Frontend Developer,Công Ty Cổ Phần Đầu Tư Globaltech,Hồ Chí Minh,IT phần mềm,2900,1,https://123job.vn/viec-lam/junior-middle-frontend-developer-g9d1zxZdrk
+88,v90o6xePDk,"Game Developer Unity, C#, OOP",Funtom Games,Hà Nội,IT phần mềm,806,1,https://123job.vn/viec-lam/game-developer-unity-c-oop-v90o6xePDk
+89,dr8ZGPooD4,"Backend Developer Java, MySQL, PostgreSQL",Dosoftpro,Hồ Chí Minh,IT phần mềm,167,1,https://123job.vn/viec-lam/backend-developer-java-mysql-postgresql-dr8ZGPooD4
+90,vrzBGWk2r0,IOS Developer,Công Ty Trách Nhiệm Hữu Hạn Unstatic,Hà Nội,IT phần mềm,359,1,https://123job.vn/viec-lam/ios-developer-vrzBGWk2r0
+91,JDajzWao9G,AI Developer,Công Ty Cổ Phần Công Nghệ Phần Mềm Tinh Vân,Hồ Chí Minh,IT phần mềm,642,0,https://123job.vn/viec-lam/ai-developer-JDajzWao9G
+92,vrzBGWNmr0,"Tech Lead/ Senior Fullstack Developer NodeJS, ReactJS",Công Ty TNHH Xe Điện Bluera Việt Nhật,Hồ Chí Minh,IT phần mềm,1134,1,https://123job.vn/viec-lam/tech-lead-senior-fullstack-developer-nodejs-reactjs-vrzBGWNmr0
+93,BDnBzvzQDR,Junior Developer (Odoo/Python) - Lương Upto 15 Triệu,Công Ty Cổ Phần Phân Phối Quốc Tế,Hà Nội,IT phần mềm,802,1,https://123job.vn/viec-lam/junior-developer-odoo-python-luong-upto-15-trieu-BDnBzvzQDR
+94,zrMLz4jZ9d,"Full-stack Developer Node.js, Vue.js, Angular/Ionic",Intowell,Hà Nội,IT phần mềm,548,1,https://123job.vn/viec-lam/full-stack-developer-nodejs-vuejs-angular-ionic-zrMLz4jZ9d
+95,5DOVo4PJqV,Unity Developer Junior,Công Ty Cổ Phần Negaxy,Hà Nội,IT phần mềm,473,1,https://123job.vn/viec-lam/unity-developer-junior-5DOVo4PJqV
+96,0q77e1YXq8,Unity Developer Fresher,Công Ty Cổ Phần Negaxy,Hà Nội,IT phần mềm,391,1,https://123job.vn/viec-lam/unity-developer-fresher-0q77e1YXq8
+97,yreJzx3xqz,Backend Developer - Nodejs,Công Ty Trách Nhiệm Hữu Hạn Unstatic,Hà Nội,IT phần mềm,774,1,https://123job.vn/viec-lam/backend-developer-nodejs-yreJzx3xqz
+98,JD60w48Mrn,Backend Developer (Go),Công Ty Cổ Phần Chứng Khoán Dnse,Hà Nội,IT phần mềm,672,0,https://123job.vn/viec-lam/backend-developer-go-JD60w48Mrn
+99,29ALjGK3DJ,Fullstack Developer (CMS),Công Ty TNHH Infoplus,Hà Nội,IT phần mềm,661,0,https://123job.vn/viec-lam/fullstack-developer-cms-29ALjGK3DJ
+100,4q3LpwBOD2,Mid/Sr Java Developer English Required - Up to 3200,"Rakuten Fintech Vietnam Co., Ltd.",Hồ Chí Minh,IT phần mềm,1024,1,https://123job.vn/viec-lam/mid-sr-java-developer-english-required-up-to-3200-4q3LpwBOD2
+101,3q273go2DM,Mobile Developer (iOS),Công Ty Cổ Phần Công Nghệ Và Dịch Vụ Lsd,Hà Nội,IT phần mềm,267,1,https://123job.vn/viec-lam/mobile-developer-ios-3q273go2DM
+102,39JmnvjbDm,Fullstack Developer - Techlead Track,Công Ty Cổ Phần Công Nghệ Evotek Việt Nam,Hà Nội,IT phần mềm,1659,1,https://123job.vn/viec-lam/fullstack-developer-techlead-track-39JmnvjbDm
+103,3q273YZKDM,Unity Developer Intern,Công Ty Cổ Phần Negaxy,Hà Nội,IT phần mềm,387,1,https://123job.vn/viec-lam/unity-developer-intern-3q273YZKDM
+104,29GgobBv9E,Fresher Frontend Developer (Good At English Communication),Beyondedge,Cần Thơ,IT phần mềm,1334,1,https://123job.vn/viec-lam/fresher-frontend-developer-good-at-english-communication-29GgobBv9E
+105,y9BwYBvvrA,Backend Developer (.NET),Công Ty FPT Is,Hồ Chí Minh,IT phần mềm,478,1,https://123job.vn/viec-lam/backend-developer-net-y9BwYBvvrA
+106,j9KQoY0nqA,Backend Software Developer (C#/.NET),Công Ty Cổ Phần Công Nghệ Phần Mềm Tinh Vân,Hồ Chí Minh,IT phần mềm,382,1,https://123job.vn/viec-lam/backend-software-developer-c-net-j9KQoY0nqA
+107,G9xYw50orN,TUYỂN SENIOR IT / FULL-STACK DEVELOPER,Công Ty TNHH Thương Mại Phát Triển Du Lịch Thành Hoàng,Hồ Chí Minh,IT phần mềm,1276,1,https://123job.vn/viec-lam/tuyen-senior-it-full-stack-developer-G9xYw50orN
+108,A9V8QZbMqn,"Automation Test Developer (Embedded, Python)",Lg Electronics VN(R&D Center),Hà Nội,IT phần mềm,429,1,https://123job.vn/viec-lam/automation-test-developer-embedded-python-A9V8QZbMqn
+109,o9jyv5zBDR,Fullstack Developer - Lương 17 - 30 Triệu/tháng,Phần Mềm Rfid Platform - Công Ty Cổ Phần Legotech,Hà Nội,IT phần mềm,1036,1,https://123job.vn/viec-lam/fullstack-developer-luong-17-30-trieu-thang-o9jyv5zBDR
+110,JD60w4YRrn,Middle React Native Developer,Công Ty Cổ Phần Tập Đoàn Thiên Khôi,Hà Nội,IT phần mềm,807,1,https://123job.vn/viec-lam/middle-react-native-developer-JD60w4YRrn
+111,dr8ZGdLeD4,Fullstack Software Developer (Junior/Senior),Công Ty TNHH MTV Công Nghệ Cao Nha Trang,Hồ Chí Minh,IT phần mềm,1117,1,https://123job.vn/viec-lam/fullstack-software-developer-junior-senior-dr8ZGdLeD4
+112,59y7ev42qL,Fullstack Developer Intern (ReactJS · NodeJS · ExpressJS),Aloha Thế Giới Chậu Cây,Hồ Chí Minh,IT phần mềm,525,1,https://123job.vn/viec-lam/fullstack-developer-intern-reactjs-nodejs-expressjs-59y7ev42qL
+113,A9V8QWZbqn,Programming Tutor - Trợ Giảng Lập Trình,The International Coding School Algorithmics,Hồ Chí Minh,IT phần mềm,1764,0,https://123job.vn/viec-lam/programming-tutor-tro-giang-lap-trinh-A9V8QWZbqn
+114,v91BPgBOrW,Programming Teacher - Giáo Viên Lập Trình,The International Coding School Algorithmics,Hồ Chí Minh,Giáo dục - Đào tạo,1894,1,https://123job.vn/viec-lam/programming-teacher-giao-vien-lap-trinh-v91BPgBOrW
+115,j9KQOOzWqA,NHÂN VIÊN LẬP TRÌNH TIỆN CNC - BÌNH DƯƠNG,Công Ty CP Kết Nối Nhân Lực Worklink Việt Nam,Hồ Chí Minh,IT phần mềm,783,0,https://123job.vn/viec-lam/nhan-vien-lap-trinh-tien-cnc-binh-duong-j9KQOOzWqA
+116,yDNQMxOVqz,NHÂN VIÊN LẬP TRÌNH PHAY – TIỆN CNC - MASTERCAM,Công Ty CP Kết Nối Nhân Lực Worklink Việt Nam,Hồ Chí Minh,IT phần mềm,788,0,https://123job.vn/viec-lam/nhan-vien-lap-trinh-phay-tien-cnc-mastercam-yDNQMxOVqz
+117,yreJzeexqz,Lập trình viên PHP,Zinza,Hà Nội,IT phần mềm,197,1,https://123job.vn/viec-lam/lap-trinh-vien-php-yreJzeexqz
+118,w9vaRNggD5,CHUYÊN VIÊN LẬP TRÌNH PHP,Mai Linh Group,Hồ Chí Minh,IT phần mềm,2053,1,https://123job.vn/viec-lam/chuyen-vien-lap-trinh-php-w9vaRNggD5
+119,29ALjk40DJ,Sr CAM Technician (Lập trình CAM),Công Ty TNHH Jabil Technology Việt Nam,Đồng Nai,IT phần mềm,511,0,https://123job.vn/viec-lam/sr-cam-technician-lap-trinh-cam-29ALjk40DJ
+120,g9d1znlQrk,NHÂN VIÊN LẬP TRÌNH & VẬN HÀNH CNC - KCN VSIP2 BÌNH DƯƠNG,Công Ty CP Kết Nối Nhân Lực Worklink Việt Nam,Hồ Chí Minh,IT phần mềm,2501,0,https://123job.vn/viec-lam/nhan-vien-lap-trinh-van-hanh-cnc-kcn-vsip2-binh-duong-g9d1znlQrk
+121,w9vaK44lD5,Lập trình viên JavaScript,Zinza,Hà Nội,IT phần mềm,249,1,https://123job.vn/viec-lam/lap-trinh-vien-javascript-w9vaK44lD5
+122,yDNQMxMOqz,Tuyển lập trình viên/ Programmer,Công Ty TNHH Santa Clara,Nam Định,IT phần mềm,1300,0,https://123job.vn/viec-lam/tuyen-lap-trinh-vien-programmer-yDNQMxMOqz
+123,LDlWzjvVq6,Lập Trình Viên Hệ Thống ERP (ERPNEXT/ Frappe),Công Ty Cổ Phần Thiết Bị Và Dịch Vụ Kỹ Thuật Thanh Long,Bà Rịa Vũng Tàu,IT phần mềm,886,0,https://123job.vn/viec-lam/lap-trinh-vien-he-thong-erp-erpnext-frappe-LDlWzjvVq6
+124,1qwOajkjq8,Lập trình viên Java,Công Ty Cổ Phần Bạch Minh Vega Corporation,Hà Nội,IT phần mềm,2628,1,https://123job.vn/viec-lam/lap-trinh-vien-java-1qwOajkjq8
+125,BDnBz1XPDR,KỸ SƯ LẬP TRÌNH PLC,Công Ty TNHH Seojin Auto,Bắc Ninh,IT phần mềm,279,0,https://123job.vn/viec-lam/ky-su-lap-trinh-plc-BDnBz1XPDR
+126,P9YVovb4ra,Lập trình viên Python,Công Ty Cổ Phần Bạch Minh Vega Corporation,Hà Nội,IT phần mềm,2595,1,https://123job.vn/viec-lam/lap-trinh-vien-python-P9YVovb4ra
+127,W9pX1ddX9p,Lập trình viên .NET,Công Ty Cổ Phần Bạch Minh Vega Corporation,Hà Nội,IT phần mềm,3205,1,https://123job.vn/viec-lam/lap-trinh-vien-net-W9pX1ddX9p
+128,wDWZo3yLqe,Lập trình viên máy CNC,Nhà Máy Sản Xuất Tủ Điện Ait,Vĩnh Phúc,IT phần mềm,215,0,https://123job.vn/viec-lam/lap-trinh-vien-may-cnc-wDWZo3yLqe
+129,W9pX1akM9p,Kỹ Sư Lập Trình PLC,Công Ty Cổ Phần Dịch Vụ Và Giải Pháp Kỹ Thuật Autotech,Hà Nội,IT phần mềm,2724,0,https://123job.vn/viec-lam/ky-su-lap-trinh-plc-W9pX1akM9p
+130,Oq5Mjxgnqp,NHÂN VIÊN LẬP TRÌNH CAM,Công Ty TNHH Pouyuen Việt Nam,Hồ Chí Minh,IT phần mềm,178,0,https://123job.vn/viec-lam/nhan-vien-lap-trinh-cam-Oq5Mjxgnqp
+131,mrEQoRYJra,Lập Trình Trí Tuệ Nhân Tạo AI,Công Ty Cổ Phần Công Nghệ Phần Mềm Tinh Vân,Hồ Chí Minh,IT phần mềm,2572,1,https://123job.vn/viec-lam/lap-trinh-tri-tue-nhan-tao-ai-mrEQoRYJra
+132,j9KQ2zKWqA,Lập Trình Viên CNC,Công Ty TNHH Điện Tử Zgs Việt Nam,Hưng Yên,IT phần mềm,308,0,https://123job.vn/viec-lam/lap-trinh-vien-cnc-j9KQ2zKWqA
+133,v91BPNjdrW,Lập Trình Viên.NET,Chi Nhánh Giải Pháp Công Nghệ Tre - Công Ty Cổ Phần Đầu Tư Và Thương Mại Tng,Bắc Cạn,IT phần mềm,1195,1,https://123job.vn/viec-lam/lap-trinh-viennet-v91BPNjdrW
+134,JD60wdj5rn,Nhân Viên Lập Trình-Điều Khiển Robot,Công Ty TNHH Nakashima Việt Nam,Hải Phòng,IT phần mềm,1534,0,https://123job.vn/viec-lam/nhan-vien-lap-trinh-dieu-khien-robot-JD60wdj5rn
+135,PDbozebx9R,"Lập Trình Nhúng Cho Thiết Bị Y Tế - Realtime OS, Phát Triển UI (VN279)",Cty TNHH R Techno Việt Nam,Hồ Chí Minh,IT phần mềm,3137,1,https://123job.vn/viec-lam/lap-trinh-nhung-cho-thiet-bi-y-te-realtime-os-phat-trien-ui-vn279-PDbozebx9R
+136,PDbozbLj9R,Lập trình viên Fullstack,Công Ty TNHH Chứng Nhận Kna,Hà Nội,IT phần mềm,689,0,https://123job.vn/viec-lam/lap-trinh-vien-fullstack-PDbozbLj9R
+137,yreJAxpxqz,"Lập Trình Viên Web (.NET Core, Vue.Js)",Chi Nhánh Giải Pháp Công Nghệ Tre - Công Ty Cổ Phần Đầu Tư Và Thương Mại Tng,Thái Nguyên,IT phần mềm,1268,1,https://123job.vn/viec-lam/lap-trinh-vien-web-net-core-vuejs-yreJAxpxqz
+138,JD60w4aVrn,Nhân Viên IT / Lập Trình Viên,Công Ty Cổ Phần Liên Kết Toàn Cầu Pwt,Bà Rịa Vũng Tàu,IT phần mềm,352,0,https://123job.vn/viec-lam/nhan-vien-it-lap-trinh-vien-JD60w4aVrn
+139,4q3LpGa5D2,"TUYỂN LẬP TRÌNH, THỢ CƠ KHÍ CNC... ( ĐI LÀM NGAY)",Công Ty TNHH Chế Tạo Máy Gia Công Cơ Khí Chính Xác An Khang,Bình Dương,IT phần mềm,1453,0,https://123job.vn/viec-lam/tuyen-lap-trinh-tho-co-khi-cnc-di-lam-ngay-4q3LpGa5D2
+140,LqkEz5Pb93,Nhân Viên Điện Lập Trình,Công Ty TNHH Thương Mại Và Quảng Cáo Lữ Nhạc,Hồ Chí Minh,IT phần mềm,726,0,https://123job.vn/viec-lam/nhan-vien-dien-lap-trinh-LqkEz5Pb93
+141,JDajzW5X9G,Nhân Viên Lập Trình Android,Công Ty TNHH Phần Mềm Hoàn Cầu - Gsoft,Hồ Chí Minh,IT phần mềm,400,1,https://123job.vn/viec-lam/nhan-vien-lap-trinh-android-JDajzW5X9G
+142,LDlWzkzbq6,Giáo Viên Lập Trình,Trường Trung Cấp Công Nghệ Kỹ Thuật Tổng Hợp,Thanh Hóa,IT phần mềm,401,0,https://123job.vn/viec-lam/giao-vien-lap-trinh-LDlWzkzbq6
+143,yreJzyaGqz,"Kỹ Sư Lập Trình LabVIEW _ KCN Đồng Văn, Ninh Bình (Hà Nam Cũ)",Công Ty TNHH Aupatech Technology,Ninh Bình,IT phần mềm,4617,0,https://123job.vn/viec-lam/ky-su-lap-trinh-labview-kcn-dong-van-ninh-binh-ha-nam-cu-yreJzyaGqz
+144,y9BwYXv8rA,Kỹ Sư Lập Trình C,Công Ty TNHH Phần Mềm Dts Việt Nam,Hà Nội,IT phần mềm,378,0,https://123job.vn/viec-lam/ky-su-lap-trinh-c-y9BwYXv8rA
+145,BqP4o1M7qz,Thực Tập Lập Trình Web PHP WordPress,Công Ty TNHH Công Nghệ Sotech VN,Hà Nội,IT phần mềm,167,1,https://123job.vn/viec-lam/thuc-tap-lap-trinh-web-php-wordpress-BqP4o1M7qz
+146,yDNQMgjyqz,Lập trình viên Full-stack .NET/React,Công Ty Cổ Phần Cung Ứng Nhân Lực Toàn Cầu Nic,Hà Nội,IT phần mềm,1219,1,https://123job.vn/viec-lam/lap-trinh-vien-full-stack-net-react-yDNQMgjyqz
+147,1qwOaz8Bq8,Thực Tập Lập Trình Web PHP WordPress,Công Ty TNHH Công Nghệ Sotech VN,Hải Phòng,IT phần mềm,170,1,https://123job.vn/viec-lam/thuc-tap-lap-trinh-web-php-wordpress-1qwOaz8Bq8
+148,v91BPO6grW,NHÂN VIÊN CÔNG NGHỆ - LẬP TRÌNH KHUÔN,"Xi Mạ, Sơn Nhựa - Công Ty TNHH Sản Xuất Hiệp Phước Thành",Hồ Chí Minh,IT phần mềm,924,0,https://123job.vn/viec-lam/nhan-vien-cong-nghe-lap-trinh-khuon-v91BPO6grW
+149,5DOVoK44qV,Lập Trình Viên Java (Back-End Senior),Công Ty TNHH Một Thành Viên Công Nghệ Và Thương Mại Wiinvent,Hà Nội,IT phần mềm,759,1,https://123job.vn/viec-lam/lap-trinh-vien-java-back-end-senior-5DOVoK44qV
+150,yreJzkkjqz,Lập Trình Viên Java Từ 3 Năm,Công Ty TNHH Digital Innovation,Hà Nội,IT phần mềm,550,1,https://123job.vn/viec-lam/lap-trinh-vien-java-tu-3-nam-yreJzkkjqz
+151,g9d1zkkyrk,Lập trình Backend Developer (Java/Spring Boot),Ngân Hàng Thương Mại Cổ Phần Tiên Phong,Hà Nội,IT phần mềm,406,1,https://123job.vn/viec-lam/lap-trinh-backend-developer-java-spring-boot-g9d1zkkyrk
+152,G9xYwKzdrN,Giáo Viên Dạy Lập Trình,Schola Limited Company,Hồ Chí Minh,Giáo dục - Đào tạo,1299,1,https://123job.vn/viec-lam/giao-vien-day-lap-trinh-G9xYwKzdrN
+153,v91BPj0LrW,Lập Trình Viên/Junior Backend Developer – PHP/Laravel,Công Ty Cổ Phần Kinh Doanh Bất Động Sản Jdi Land,Hà Nội,IT phần mềm,558,1,https://123job.vn/viec-lam/lap-trinh-vien-junior-backend-developer-php-laravel-v91BPj0LrW
+154,ND4ZKNRyrv,"Thực Tập Sinh AI, Bigdata/Lập Trình Viên Full-Stack",Công Ty Cổ Phần Saltlux Technology,Hà Nội,IT phần mềm,232,0,https://123job.vn/viec-lam/thuc-tap-sinh-ai-bigdata-lap-trinh-vien-full-stack-ND4ZKNRyrv
+155,y9BwYXXOrA,Lập Trình Viên Full-Stack Java Developer (Onsite),Công Ty Cổ Phần Ecoit,Hà Nội,IT phần mềm,541,1,https://123job.vn/viec-lam/lap-trinh-vien-full-stack-java-developer-onsite-y9BwYXXOrA
+156,PDbozb4j9R,"Lập Trình Viên FullStack (Tiếng Nhật N2) ~ 25 - 35 [28796 - Ba Đình, Hà Nội]",Công Ty TNHH Reeracoen Việt Nam,Hà Nội,IT phần mềm,801,1,https://123job.vn/viec-lam/lap-trinh-vien-fullstack-tieng-nhat-n2-25-35-28796-ba-dinh-ha-noi-PDbozb4j9R
+157,Oq5Ma1enqp,NHÂN VIÊN KỸ THUẬT ĐIỆN (LẬP TRÌNH-ĐẤU NỐI ĐIỆN CÔNG NGHIỆP),Unknown,Đồng Nai,Điện - Điện tử - Điện lạnh,386,0,https://123job.vn/viec-lam/nhan-vien-ky-thuat-dien-lap-trinh-dau-noi-dien-cong-nghiep-Oq5Ma1enqp
+158,dr8ZGveoD4,Kỹ Thuật Viên Gia Công Phay CNC (Ưu Tiên Biết Lập Trình Mastercam),Công Ty TNHH Cti VN,Hồ Chí Minh,IT phần mềm,967,0,https://123job.vn/viec-lam/ky-thuat-vien-gia-cong-phay-cnc-uu-tien-biet-lap-trinh-mastercam-dr8ZGveoD4
+159,2rgPzg6pqG,Lập Trình Viên Web (Full-Stack Dev) (Next.js / Node.js - Tối Ưu AdSense & AI),Công Ty TNHH Thương Mại Và Truyền Thông Vihago,Hà Nội,IT phần mềm,807,1,https://123job.vn/viec-lam/lap-trinh-vien-web-full-stack-dev-nextjs-nodejs-toi-uu-adsense-ai-2rgPzg6pqG
+160,0q77eOGaq8,Chuyên Viên Tư Vấn Tuyển Sinh Khóa Học Lập Trình,Công Ty Cổ Phần Trường Học Công Nghệ Mindx - Hồ Chí Minh,Hà Nội,Tư vấn/ Chăm sóc khách hàng,2527,0,https://123job.vn/viec-lam/chuyen-vien-tu-van-tuyen-sinh-khoa-hoc-lap-trinh-0q77eOGaq8
+161,zrMLz3NZ9d,Lập Trình Viên Backend Java - Thu Nhập 30 – 45 Triệu Gross + Thưởng Dự Án/KPI,Công Ty TNHH Một Thành Viên Công Nghệ Và Thương Mại Wiinvent,Hà Nội,IT phần mềm,759,1,https://123job.vn/viec-lam/lap-trinh-vien-backend-java-thu-nhap-30-45-trieu-gross-thuong-du-an-kpi-zrMLz3NZ9d
+162,JD60wOOarn,Nhân Viên Lập Trình Viên Backend Developer (C#/.NET Hoặc Java),Công Ty Cổ Phần Mobitrip,Hà Nội,IT phần mềm,770,1,https://123job.vn/viec-lam/nhan-vien-lap-trinh-vien-backend-developer-c-net-hoac-java-JD60wOOarn
+163,n9Rw2xxjrb,Tuyển kỹ sư lập trình máy phay CNC,Công Ty TNHH Seongho Tech Vina,Hải Phòng,IT phần mềm,389,0,https://123job.vn/viec-lam/tuyen-ky-su-lap-trinh-may-phay-cnc-n9Rw2xxjrb
+164,mrEQ0NRzra,Giáo Viên Dạy Lập Trình Online Cho Trẻ (6 - 16 tuổi),Schola Limited Company,Hồ Chí Minh,Giáo dục - Đào tạo,1174,1,https://123job.vn/viec-lam/giao-vien-day-lap-trinh-online-cho-tre-6-16-tuoi-mrEQ0NRzra
+165,4qQ4o5kXrX,Kỹ Thuật Viên Lập Trình Gia Công Cơ Khí (Mastercam) - Lương 15 Đến 25 Triệu,Công Ty TNHH Cti VN,Hồ Chí Minh,Kỹ thuật,2014,0,https://123job.vn/viec-lam/ky-thuat-vien-lap-trinh-gia-cong-co-khi-mastercam-luong-15-den-25-trieu-4qQ4o5kXrX
+166,n9RwWdRArb,THỢ LẬP TRÌNH VÀ VẬN HÀNH MÁY CHẤN,Công Ty TNHH Nội Thất & Quảng Cáo Á Đông,Đồng Nai,IT phần mềm,792,0,https://123job.vn/viec-lam/tho-lap-trinh-va-van-hanh-may-chan-n9RwWdRArb
+167,LqkEzk5b93,Thực Tập Sinh Lập Trình Back-End (Python)/Front-End (Reactjs – Vuejs) - Không nhận Java,Công Ty Cổ Phần An Toàn Thông Tin Mvs,Hà Nội,IT phần mềm,669,1,https://123job.vn/viec-lam/thuc-tap-sinh-lap-trinh-back-end-python-front-end-reactjs-vuejs-khong-nhan-java-LqkEzk5b93
+168,mrEQokXara,Python Automation Engineer (Production Control),Công Ty TNHH Amkor Technology Việt Nam,Bắc Ninh,Công nghiệp,1034,1,https://123job.vn/viec-lam/python-automation-engineer-production-control-mrEQokXara
+169,JDajZ5Ko9G,"SEOJIN XƯỞNG 3 - KỸ SƯ THIẾT KẾ PHẦN MỀM SW - BỘ PHẬN PCB FILTER (Có kinh nghiệm, C++, C#, Python)",Công Ty TNHH Seojin Auto,Bắc Ninh,IT phần mềm,249,1,https://123job.vn/viec-lam/seojin-xuong-3-ky-su-thiet-ke-phan-mem-sw-bo-phan-pcb-filter-co-kinh-nghiem-c-c-python-JDajZ5Ko9G
+170,mrEQoROQra,Trưởng Nhóm Fullstack (Python/ ReactJS),Công Ty Cổ Phần Công Nghệ Phần Mềm Tinh Vân,Hà Nội,IT phần mềm,1591,1,https://123job.vn/viec-lam/truong-nhom-fullstack-python-reactjs-mrEQoROQra
+171,BDnBzvMmDR,Python Đội Cấn,Công Ty Cổ Phần Công Nghệ Unitrust Việt Nam,Hà Nội,IT phần mềm,835,1,https://123job.vn/viec-lam/python-doi-can-BDnBzvMmDR
+172,wDWZowV0qe,"Senior Fullstack Engineer TypeScript, Java, Python",Papaya Insurtech,Hồ Chí Minh,IT phần mềm,324,1,https://123job.vn/viec-lam/senior-fullstack-engineer-typescript-java-python-wDWZowV0qe
+173,2rgPz4y0qG,Senior Odoo Software Engineer Python,Công Ty TNHH Wir Group,Hà Nội,IT phần mềm,914,1,https://123job.vn/viec-lam/senior-odoo-software-engineer-python-2rgPz4y0qG
+174,0q77eONXq8,Fullstack Python/React.JS,Công Ty Trách Nhiệm Hữu Hạn Mumesoft Innovation,Hà Nội,IT phần mềm,385,1,https://123job.vn/viec-lam/fullstack-python-reactjs-0q77eONXq8
+175,59y7eBonqL,Python Developer,Sotatek,Hà Nội,IT phần mềm,2713,1,https://123job.vn/viec-lam/python-developer-59y7eBonqL
+176,29ALje23DJ,"Software Engineer Python, C#, C++",Greystone Data Systems Vietnam,Hồ Chí Minh,IT phần mềm,627,1,https://123job.vn/viec-lam/software-engineer-python-c-c-29ALje23DJ
+177,29GgoJA79E,Automotive Software Integration Engineer C++/Python,Bosch Global Software Technologies Company Limited,Hà Nội,IT phần mềm,1608,1,https://123job.vn/viec-lam/automotive-software-integration-engineer-c-python-29GgoJA79E
+178,BqP4ooR5qz,"Milient - QA Automation Engineer Python, JS, Bash",Scandinavian Software Park,Hà Nội,QA-QC/ Thẩm định/ Giám định,1903,1,https://123job.vn/viec-lam/milient-qa-automation-engineer-python-js-bash-BqP4ooR5qz
+179,LqkEzL7G93,"Junior Data Analyst Python, SQL, R, Git",Ai+Di,Hồ Chí Minh,IT phần mềm,2795,1,https://123job.vn/viec-lam/junior-data-analyst-python-sql-r-git-LqkEzL7G93
+180,BqP4oo2Xqz,"Middle/Senior Backend Engineer Golang, Python",Makinarocks,Hồ Chí Minh,IT phần mềm,541,1,https://123job.vn/viec-lam/middle-senior-backend-engineer-golang-python-BqP4oo2Xqz
+181,5DOVoooJqV,Hybrid Backend Engineer - LLM Python,Công Ty TNHH Renda,Hồ Chí Minh,IT phần mềm,729,1,https://123job.vn/viec-lam/hybrid-backend-engineer-llm-python-5DOVoooJqV
+182,v91BPPJLrW,"Senior Pentester Red Team, Python, PowerShell, AI",Abbank,Hà Nội,IT phần mềm,1369,1,https://123job.vn/viec-lam/senior-pentester-red-team-python-powershell-ai-v91BPPJLrW
+183,4q3LppmzD2,Senior Software Engineer Python,Inspectorio,Hồ Chí Minh,IT phần mềm,2962,1,https://123job.vn/viec-lam/senior-software-engineer-python-4q3LppmzD2
+184,zrMLzJjQ9d,Python Developer (Middle Level),Công Ty Cổ Phần Công Nghệ Sotatek,Hà Nội,IT phần mềm,3401,1,https://123job.vn/viec-lam/python-developer-middle-level-zrMLzJjQ9d
+185,G9xYw6pmrN,"AI Engineer - Computer Vision Python, LLM",Ai+Di,Hồ Chí Minh,IT phần mềm,833,1,https://123job.vn/viec-lam/ai-engineer-computer-vision-python-llm-G9xYw6pmrN
+186,BqP4o2wWqz,"Odoo Developer Python, JavaScript, HTML/CSS, SQL",Ai+Di,Hồ Chí Minh,IT phần mềm,947,1,https://123job.vn/viec-lam/odoo-developer-python-javascript-html-css-sql-BqP4o2wWqz
+187,v91BPzaorW,Python Developer,Accenture,Hồ Chí Minh,IT phần mềm,544,1,https://123job.vn/viec-lam/python-developer-v91BPzaorW
+188,wDWZoPXaqe,"Data Engineer SQL, NoSQL, Hadoop, Python, Java",Ngân Hàng Tmcp Công Thương Việt Nam-Vietinbank,Hà Nội,IT phần mềm,1683,1,https://123job.vn/viec-lam/data-engineer-sql-nosql-hadoop-python-java-wDWZoPXaqe
+189,y9BwYd6grA,QC Manager QA QC/Python/Automation Test Up to 55m,Pyramid Technical Vietnam,Đà Nẵng,QA-QC/ Thẩm định/ Giám định,1161,1,https://123job.vn/viec-lam/qc-manager-qa-qc-python-automation-test-up-to-55m-y9BwYd6grA
+190,yDNQMRNVqz,"Fullstack Development Team Lead (Java, Angular)",Alphaway Technology,Hà Nội,IT phần mềm,2937,1,https://123job.vn/viec-lam/fullstack-development-team-lead-java-angular-yDNQMRNVqz
+191,5DOVo16dqV,Solution Architect Java/.NET/Oracle/API,Công Ty Cổ Phần Chứng Khoán Vpbank,Hà Nội,Kiến trúc - Thiết kế nội thất,1171,1,https://123job.vn/viec-lam/solution-architect-java-net-oracle-api-5DOVo16dqV
+192,0q77eO1Oq8,Senior Java Developer,Công Ty TNHH Tập Đoàn Công Nghệ Wikex Exchange,Hồ Chí Minh,IT phần mềm,263,1,https://123job.vn/viec-lam/senior-java-developer-0q77eO1Oq8
+193,29GgoOO39E,JAVA BACKEND DEVELOPER (Senior),Công Ty TNHH Một Thành Viên Công Nghệ Và Thương Mại Wiinvent,Hà Nội,IT phần mềm,759,1,https://123job.vn/viec-lam/java-backend-developer-senior-29GgoOO39E
+194,ArX8AJwerV,Manager Java Backend Developer,Công Ty Cổ Phần Chứng Khoán Kis Việt Nam,Hồ Chí Minh,IT phần mềm,532,1,https://123job.vn/viec-lam/manager-java-backend-developer-ArX8AJwerV
+195,A9V8QZK5qn,Java Developer Lead (Backend),Công Ty Cổ Phần Global Technology Solutions Việt Nam,Hà Nội,IT phần mềm,520,1,https://123job.vn/viec-lam/java-developer-lead-backend-A9V8QZK5qn
+196,yreJz54Gqz,Senior Backend Developer Java ID12288,Vpbank,Hà Nội,IT phần mềm,212,1,https://123job.vn/viec-lam/senior-backend-developer-java-id12288-yreJz54Gqz
+197,BDnBzk5mDR,Junior/Middle Java Developer - Banking Project,Công Ty Trách Nhiệm Hữu Hạn Công Nghệ Bankfinity,Hà Nội,IT phần mềm,382,1,https://123job.vn/viec-lam/junior-middle-java-developer-banking-project-BDnBzk5mDR
+198,y9BwYG7OrA,Fullstack Developer Java + Angular - VIC,Viettel Group,Hà Nội,IT phần mềm,653,1,https://123job.vn/viec-lam/fullstack-developer-java-angular-vic-y9BwYG7OrA
+199,LqkEza3G93,"Project Manager Java, Chinese, English, MySQL, SQL",Công Ty TNHH Clever Creations Tech,Hồ Chí Minh,IT phần mềm,261,1,https://123job.vn/viec-lam/project-manager-java-chinese-english-mysql-sql-LqkEza3G93
+200,v91BPOO4rW,Fullstack Java Developer (Lương cứng up to 30M),Công Ty Cổ Phần Công Nghệ Sapo,Hà Nội,IT phần mềm,891,1,https://123job.vn/viec-lam/fullstack-java-developer-luong-cung-up-to-30m-v91BPOO4rW
+201,39Jmn2LXDm,"Java Developer (Spring Boot, Kafka, Product), Nghỉ Thứ 7 Chủ Nhật",Công Ty Cổ Phần Công Nghệ - Viễn Thông Elcom,Hà Nội,IT phần mềm,1280,1,https://123job.vn/viec-lam/java-developer-spring-boot-kafka-product-nghi-thu-7-chu-nhat-39Jmn2LXDm
+202,ND4ZK1xYrv,"Senior AI Native Engineer React, Next.js, Flutter",Datvietvac,Hồ Chí Minh,IT phần mềm,3563,1,https://123job.vn/viec-lam/senior-ai-native-engineer-react-nextjs-flutter-ND4ZK1xYrv
+203,yreJzM6Gqz,Java Fullstack Developer React/ ELK /AWS,Hitachi Digital Services,Hồ Chí Minh,IT phần mềm,823,1,https://123job.vn/viec-lam/java-fullstack-developer-react-elk-aws-yreJzM6Gqz
+204,LqkEzRYG93,Java Fullstack Developer React/ Elasticsearch /AWS,Hitachi Digital Services,Hồ Chí Minh,IT phần mềm,823,1,https://123job.vn/viec-lam/java-fullstack-developer-react-elasticsearch-aws-LqkEzRYG93
+205,Oq5Ma5amqp,"FULLSTACK DEVELOPER (React, Golang)",Công Ty TNHH Nexdor Việt Nam,Hồ Chí Minh,IT phần mềm,2380,1,https://123job.vn/viec-lam/fullstack-developer-react-golang-Oq5Ma5amqp
+206,2rgP5wg1qG,MOBILE DEVELOPER (REACT NATIVE),Công Ty TNHH Tin Học & Dịch Vụ Nam Long,Hồ Chí Minh,IT phần mềm,1511,1,https://123job.vn/viec-lam/mobile-developer-react-native-2rgP5wg1qG
+207,1qwOapb2q8,Tuyển dụng FULLSTACK DEVELOPER (JAVA + REACT/NEXTJS),Legotech,Hà Nội,IT phần mềm,2646,1,https://123job.vn/viec-lam/tuyen-dung-fullstack-developer-java-react-nextjs-1qwOapb2q8
+208,ArX8AZGZrV,Android Developer React Native,Công Ty Cổ Phần Giải Pháp Nền Tảng Ip,Hồ Chí Minh,IT phần mềm,438,1,https://123job.vn/viec-lam/android-developer-react-native-ArX8AZGZrV
+209,39JmnAvYDm,Middle Frontend Developer React / Next.js,Công Ty Cổ Phần Dev Fromvietnam,Hà Nội,IT phần mềm,1058,1,https://123job.vn/viec-lam/middle-frontend-developer-react-nextjs-39JmnAvYDm
+210,29ALjPJpDJ,Fullstack Java/React,Nitori Digital Base Vietnam,Hà Nội,IT phần mềm,1363,1,https://123job.vn/viec-lam/fullstack-java-react-29ALjPJpDJ
+211,JD60weMMrn,Frontend Developer – React/TypeScript (Junior),Saramin'S Client,Hồ Chí Minh,IT phần mềm,1094,1,https://123job.vn/viec-lam/frontend-developer-react-typescript-junior-JD60weMMrn
+212,5qmEzg0wq8,Full-Stack Developer – Python & React,Công Ty TNHH Diksha Technologies,Hồ Chí Minh,IT phần mềm,644,1,https://123job.vn/viec-lam/full-stack-developer-python-react-5qmEzg0wq8
+213,3q273bPKDM,"Mobile Developer Android, React Native",Deliveree On-Demand Logistics,Unknown,Unknown,7446,1,https://123job.vn/viec-lam/mobile-developer-android-react-native-3q273bPKDM
+214,BDnBz7zoDR,Senior Front-End Developer React,Sstech,Hồ Chí Minh,IT phần mềm,1190,1,https://123job.vn/viec-lam/senior-front-end-developer-react-BDnBz7zoDR
+215,59y7e8NVqL,Lập trình viên React Native,Công Ty Cổ Phần Bạch Minh Vega Corporation,Unknown,Unknown,3205,1,https://123job.vn/viec-lam/lap-trinh-vien-react-native-59y7e8NVqL
+216,LDlWz2ZVq6,"FullStack Engineer React, Python/FastAPI, Shopify App",Brarista,Hồ Chí Minh,IT phần mềm,4771,1,https://123job.vn/viec-lam/fullstack-engineer-react-python-fastapi-shopify-app-LDlWz2ZVq6
+217,4q3Lpjy5D2,Senior Fullstack Engineer Golang / React,Zalopay,Hồ Chí Minh,IT phần mềm,2586,1,https://123job.vn/viec-lam/senior-fullstack-engineer-golang-react-4q3Lpjy5D2
+218,n9RwoQ7Wrb,"React Native Developer JavaScript, Mobile Apps",Công Ty TNHH Du Mục,Hồ Chí Minh,IT phần mềm,853,1,https://123job.vn/viec-lam/react-native-developer-javascript-mobile-apps-n9RwoQ7Wrb
+219,KqLaOLEMD1,"Mobile Developer React Native, Securities",Pinetree Securities,Unknown,Unknown,6567,1,https://123job.vn/viec-lam/mobile-developer-react-native-securities-KqLaOLEMD1
+220,JDajzGRE9G,Fullstack Engineer React/ TypeScript/ Python/ SQL,Trustedai,Hà Nội,IT phần mềm,704,1,https://123job.vn/viec-lam/fullstack-engineer-react-typescript-python-sql-JDajzGRE9G
+221,ND4ZKmGJrv,Middle Frontend Dev (React / React Native / Mobile),Vui App,Hà Nội,IT phần mềm,3900,1,https://123job.vn/viec-lam/middle-frontend-dev-react-react-native-mobile-ND4ZKmGJrv
+222,ArX8Ag06rV,"Senior Frontend Engineer Vue/ Angular/ React, English",Raksul Vietnam,Hồ Chí Minh,IT phần mềm,1017,1,https://123job.vn/viec-lam/senior-frontend-engineer-vue-angular-react-english-ArX8Ag06rV
+223,g9d1z8Gark,"Senior Full-stack Developer C#, .NET Core, React",Smartdev Llc,Hà Nội,IT phần mềm,2415,1,https://123job.vn/viec-lam/senior-full-stack-developer-c-net-core-react-g9d1z8Gark
+224,dr8ZGmynD4,"Senior Frontend Engineer -React, TypeScript, JavaScript",Vision Advisory & Analytics,Hồ Chí Minh,IT phần mềm,2468,1,https://123job.vn/viec-lam/senior-frontend-engineer-react-typescript-javascript-dr8ZGmynD4
+225,j9KQogNAqA,"QA Engineer Claude Code, Python, React, Manual Tester",Brarista,Hồ Chí Minh,QA-QC/ Thẩm định/ Giám định,1822,1,https://123job.vn/viec-lam/qa-engineer-claude-code-python-react-manual-tester-j9KQogNAqA
+226,yDNQM16wqz,Senior Fullstack Engineer Java + React,Vnggames,Hồ Chí Minh,IT phần mềm,1671,1,https://123job.vn/viec-lam/senior-fullstack-engineer-java-react-yDNQM16wqz
+227,29ALjojWDJ,"Fullstack Tech Lead Node.js, React, Java, Kotlin",Thoughtworks Vietnam,Hồ Chí Minh,IT phần mềm,2154,1,https://123job.vn/viec-lam/fullstack-tech-lead-nodejs-react-java-kotlin-29ALjojWDJ
+228,y9BwYnRyrA,"Senior Software Engineer Node.js, React, Java, Kotlin",Thoughtworks Vietnam,Hồ Chí Minh,IT phần mềm,2178,1,https://123job.vn/viec-lam/senior-software-engineer-nodejs-react-java-kotlin-y9BwYnRyrA
+229,yDNQMYlBqz,Senior Front-End Engineer React Micro Frontend,Epam Vietnam,Hồ Chí Minh,IT phần mềm,902,1,https://123job.vn/viec-lam/senior-front-end-engineer-react-micro-frontend-yDNQMYlBqz
+230,1qwOajjkq8,PHP Fresher,Zinza,Hà Nội,IT phần mềm,334,1,https://123job.vn/viec-lam/php-fresher-1qwOajjkq8
+231,JDajzBB59G,Thực tập sinh PHP,Zinza,Hà Nội,Thực tập,291,1,https://123job.vn/viec-lam/thuc-tap-sinh-php-JDajzBB59G
+232,v91BPvvLrW,Technical Leader (PHP),Zinza,Hà Nội,IT phần mềm,557,1,https://123job.vn/viec-lam/technical-leader-php-v91BPvvLrW
+233,v91BPNY4rW,"Middle - Senior Software Engineer Golang, PHP, Ruby",Giftee Tech Vietnam,Hồ Chí Minh,IT phần mềm,831,1,https://123job.vn/viec-lam/middle-senior-software-engineer-golang-php-ruby-v91BPNY4rW
+234,P9YVoeK1ra,Php Full Stack Developer - Lương Upto 18M,Công Ty Cổ Phần Vietiso,Hà Nội,IT phần mềm,1046,1,https://123job.vn/viec-lam/php-full-stack-developer-luong-upto-18m-P9YVoeK1ra
+235,v91BPAE4rW,Backend Developer Odoo/PHP - VIC,Viettel Group,Hà Nội,IT phần mềm,594,1,https://123job.vn/viec-lam/backend-developer-odoo-php-vic-v91BPAE4rW
+236,39Jmn747Dm,Fresher PHP Developer (Fresher - Good command of English skills),Beyondedge,Cần Thơ,IT phần mềm,1442,1,https://123job.vn/viec-lam/fresher-php-developer-fresher-good-command-of-english-skills-39Jmn747Dm
+237,yDNQMMYOqz,"Front-End Developer PHP, Javascript, HTML, CSS",Incepit,Hồ Chí Minh,IT phần mềm,889,1,https://123job.vn/viec-lam/front-end-developer-php-javascript-html-css-yDNQMMYOqz
+238,ArX8Ad86rV,PHP Developer (Upto 50M),Công Ty Trách Nhiệm Hữu Hạn Một Thành Viên Việt Nam Gs Industry,Hồ Chí Minh,IT phần mềm,1832,1,https://123job.vn/viec-lam/php-developer-upto-50m-ArX8Ad86rV
+239,j9KQoWy3qA,Middle PHP Developer YII2/LARAVEL,Công Ty TNHH Nexful,Hồ Chí Minh,IT phần mềm,561,1,https://123job.vn/viec-lam/middle-php-developer-yii2-laravel-j9KQoWy3qA
+240,JDajzm5G9G,Techlead PHP/Nodejs,Ntq Solution,Unknown,Unknown,7169,1,https://123job.vn/viec-lam/techlead-php-nodejs-JDajzm5G9G
+241,JDajzvv69G,Fullstack Developer PHP,Công Ty TNHH Công Nghệ Ship Việt Nam,Hồ Chí Minh,IT phần mềm,1289,1,https://123job.vn/viec-lam/fullstack-developer-php-JDajzvv69G
+242,o9jyvaw3DR,"Senior Backend Engineer Python, Java, PHP",Itviec Recruitment Consulting,Unknown,Unknown,7468,1,https://123job.vn/viec-lam/senior-backend-engineer-python-java-php-o9jyvaw3DR
+243,5DOVoey2qV,PHP Developer Laravel / ReactJS / VueJS,Zigexn Ventura,Unknown,Unknown,8585,1,https://123job.vn/viec-lam/php-developer-laravel-reactjs-vuejs-5DOVoey2qV
+244,0q77e5Nvq8,"Mobile Game Developer Fullstack 5EXP java, c++, c#, PHP",568E,Hồ Chí Minh,IT phần mềm,977,1,https://123job.vn/viec-lam/mobile-game-developer-fullstack-5exp-java-c-c-php-0q77e5Nvq8
+245,BqP4NgyJqz,PHP Developer (Junior/ Senior),Beyondedge,Unknown,Unknown,4546,1,https://123job.vn/viec-lam/php-developer-junior-senior-BqP4NgyJqz
+246,29ALjQLpDJ,PHP Backend Developer,Like Lion,Unknown,Unknown,4380,1,https://123job.vn/viec-lam/php-backend-developer-29ALjQLpDJ
+247,W9pX1OGM9p,Full-stack Web Engineer Intern/Fresher PHP/Ruby,Zigexn Ventura,Đà Nẵng,IT phần mềm,908,1,https://123job.vn/viec-lam/full-stack-web-engineer-intern-fresher-php-ruby-W9pX1OGM9p
+248,n9Rwo3y5rb,PHP Full-stack Developer On-site,Yet Company,Hồ Chí Minh,IT phần mềm,1104,1,https://123job.vn/viec-lam/php-full-stack-developer-on-site-n9Rwo3y5rb
+249,g9d1zREbrk,[HCM] Công Ty Alta Software Tuyển Dụng Nhân Viên Lập Trình PHP Full-time 2026,Quỳnh Như,Hồ Chí Minh,IT phần mềm,2734,1,https://123job.vn/viec-lam/hcm-cong-ty-alta-software-tuyen-dung-nhan-vien-lap-trinh-php-full-time-2026-g9d1zREbrk
+250,0q77e5z8q8,"Full-stack Engineer ReactJS, Laravel, VueJS, PHP",Công Ty TNHH Qnap Việt Nam,Hà Nội,IT phần mềm,927,1,https://123job.vn/viec-lam/full-stack-engineer-reactjs-laravel-vuejs-php-0q77e5z8q8
+251,0q77e5vpq8,"Senior PHP Developer Laravel, WordPress",Trustify Technology,Hồ Chí Minh,IT phần mềm,1412,1,https://123job.vn/viec-lam/senior-php-developer-laravel-wordpress-0q77e5vpq8
+252,3qZazZ55r4,Thực tập sinh lập trình web php wordpress,Công Ty TNHH Sotech,Unknown,Unknown,2965,1,https://123job.vn/viec-lam/thuc-tap-sinh-lap-trinh-web-php-wordpress-3qZazZ55r4
+253,n9RwodQRrb,[HN] Công Ty NTQ Solution Tuyển Dụng Thực Tập Sinh IOS/PHP Full-time 2026,Trang Nguyen Thi Huyen 2 (Npd.Nwa),Unknown,Unknown,13048,1,https://123job.vn/viec-lam/hn-cong-ty-ntq-solution-tuyen-dung-thuc-tap-sinh-ios-php-full-time-2026-n9RwodQRrb
+254,y9BwYzMvrA,Middleware Engineer ( Devops / Devnet),Công Ty Cổ Phần Viễn Thông - Tin Học Bưu Điện (Ctin),Hồ Chí Minh,IT phần mềm,403,0,https://123job.vn/viec-lam/middleware-engineer-devops-devnet-y9BwYzMvrA
+255,KqLaNmLXD1,DevOps Engineer,FPT Telecom International,Hồ Chí Minh,IT phần mềm,3897,1,https://123job.vn/viec-lam/devops-engineer-KqLaNmLXD1
+256,KqLaOvVBD1,Expert Platform/DevOps Engineer ID12290,Vpbank,Hà Nội,IT phần mềm,478,0,https://123job.vn/viec-lam/expert-platform-devops-engineer-id12290-KqLaOvVBD1
+257,3qZazkzQr4,DevOps Lead,Coder Trove,Hồ Chí Minh,IT phần mềm,1858,1,https://123job.vn/viec-lam/devops-lead-3qZazkzQr4
+258,lroWznGwr4,Full-Stack Engineer (DevOps Oriented),Công Ty TNHH Nextai Holdings,Hồ Chí Minh,IT phần mềm,1412,1,https://123job.vn/viec-lam/full-stack-engineer-devops-oriented-lroWznGwr4
+259,3q273A37DM,Cloud Native DevOps Engineer,Endava Việt Nam,Hồ Chí Minh,IT phần mềm,1323,1,https://123job.vn/viec-lam/cloud-native-devops-engineer-3q273A37DM
+260,1qwOazd2q8,Middle/Senior DevOps Engineer - Lương Upto 30 Triệu,Công Ty Cổ Phần Tập Đoàn Thiên Khôi,Hà Nội,IT phần mềm,1227,1,https://123job.vn/viec-lam/middle-senior-devops-engineer-luong-upto-30-trieu-1qwOazd2q8
+261,JD60wnjarn,DevOps Engineer,Nextedge,Hồ Chí Minh,IT phần mềm,3034,1,https://123job.vn/viec-lam/devops-engineer-JD60wnjarn
+262,w9vaKKKlD5,Senior DevOps Engineer,Vinsmart Future,Hà Nội,IT phần mềm,1179,1,https://123job.vn/viec-lam/senior-devops-engineer-w9vaKKKlD5
+263,yDNQMMNaqz,DevOps Engineer,Unknown,Hồ Chí Minh,IT phần mềm,2798,0,https://123job.vn/viec-lam/devops-engineer-yDNQMMNaqz
+264,59y7eelWqL,Tuyen dung nhan vien lap trinh DEVOPS,Công Ty TNHH Thương Mại Dịch Vụ Gpet,Hồ Chí Minh,IT phần mềm,2593,1,https://123job.vn/viec-lam/tuyen-dung-nhan-vien-lap-trinh-devops-59y7eelWqL
+265,LqkEzzyn93,"TMO - DevOps Engineer Senior Manager DevSecOps, AWS",Ngân Hàng Á Châu Acb,Hồ Chí Minh,IT phần mềm,1570,1,https://123job.vn/viec-lam/tmo-devops-engineer-senior-manager-devsecops-aws-LqkEzzyn93
+266,2rgPzz4XqG,"DevOps Engineer Linux, Kubernetes, Docker, Jenkins",Công Ty TNHH Thương Mại Dịch Vụ Gpet,Hồ Chí Minh,IT phần mềm,2593,1,https://123job.vn/viec-lam/devops-engineer-linux-kubernetes-docker-jenkins-2rgPzz4XqG
+267,y9BwYYxOrA,DevOps Engineer,Lg Cns Việt Nam,Hà Nội,IT phần mềm,377,0,https://123job.vn/viec-lam/devops-engineer-y9BwYYxOrA
+268,v91BPP7xrW,Kỹ Sư Phát Triển Và Vận Hành DevOps,Tổng Công Ty Hạ Tầng Mạng (Vnpt-Net),Hà Nội,Kỹ thuật,661,0,https://123job.vn/viec-lam/ky-su-phat-trien-va-van-hanh-devops-v91BPP7xrW
+269,A9V8QQ27qn,"Senior Platform Engineering DevOps, SRE, Linux",Globaltech,Hồ Chí Minh,IT phần mềm,1014,1,https://123job.vn/viec-lam/senior-platform-engineering-devops-sre-linux-A9V8QQ27qn
+270,g9d1zzEbrk,"DevOps Engineer AWS, Cloud",Cubicstack Solutions,Hồ Chí Minh,IT phần mềm,827,1,https://123job.vn/viec-lam/devops-engineer-aws-cloud-g9d1zzEbrk
+271,vrzBGGBVr0,Cloud DevOps Engineer open for Junior and Middle,Lg Cns Việt Nam,Hà Nội,IT phần mềm,855,1,https://123job.vn/viec-lam/cloud-devops-engineer-open-for-junior-and-middle-vrzBGGBVr0
+272,Oq5Maj0kqp,DevOps Engineer,Soxes Ag,Hồ Chí Minh,IT phần mềm,1878,1,https://123job.vn/viec-lam/devops-engineer-Oq5Maj0kqp
+273,mrEQonR0ra,Chuyên viên DevOps,Cmc Telecom,Hà Nội,IT phần mềm,3756,1,https://123job.vn/viec-lam/chuyen-vien-devops-mrEQonR0ra
+274,v90o610ZDk,Devops Engineer,Accenture,Hồ Chí Minh,IT phần mềm,1310,1,https://123job.vn/viec-lam/devops-engineer-v90o610ZDk
+275,JDajzMzZ9G,DEVOPS ENGINEER (CLOUD),Cmc Telecom,Hà Nội,IT phần mềm,4055,1,https://123job.vn/viec-lam/devops-engineer-cloud-JDajzMzZ9G
+276,ND4ZKg1Yrv,DevOps Engineer,Vnggames,Hồ Chí Minh,IT phần mềm,1936,0,https://123job.vn/viec-lam/devops-engineer-ND4ZKg1Yrv
+277,29ALXJXZDJ,DevOps Engineer,Công Ty Cổ Phần Tập Đoàn Công Nghệ Thiên Hoàng,Unknown,Unknown,7164,1,https://123job.vn/viec-lam/devops-engineer-29ALXJXZDJ
+278,yDNQMZPMqz,Senior DevOps Engineer (IT),Hsc - Chứng Khoán Thành Phố Hồ Chí Minh,Hồ Chí Minh,IT phần mềm,2650,1,https://123job.vn/viec-lam/senior-devops-engineer-it-yDNQMZPMqz
+279,o9jyOj7BDR,Devops Engineer,Ct Group Việt Nam,Hồ Chí Minh,IT phần mềm,2086,1,https://123job.vn/viec-lam/devops-engineer-o9jyOj7BDR
+280,g9d1zdV8rk,AWS DevOps,Công Ty Cổ Phần Công Nghệ Sotatek,Unknown,Unknown,6720,1,https://123job.vn/viec-lam/aws-devops-g9d1zdV8rk
+281,lroWzXz2r4,DevOps Engineer - Upto 3500,Viettel Post (A Member Of Viettel Group),Hà Nội,IT phần mềm,775,1,https://123job.vn/viec-lam/devops-engineer-upto-3500-lroWzXz2r4
+282,JDajzv769G,System DevOps Engineer,Unknown,Hồ Chí Minh,IT phần mềm,1906,1,https://123job.vn/viec-lam/system-devops-engineer-JDajzv769G
+283,P9YVklKYra,Data Analyst,Viettel Cyber Security,Hà Nội,IT phần mềm,3526,1,https://123job.vn/viec-lam/data-analyst-P9YVklKYra
+284,BqP4od8Qqz,Data Analyst,Công Ty Cổ Phần Sàn Giao Dịch Tài Sản Mã Hóa Việt Nam Thịnh Vượng,Điện Biên,IT phần mềm,2160,1,https://123job.vn/viec-lam/data-analyst-BqP4od8Qqz
+285,dr8ZGP7RD4,Data Analyst (Lead),Alphaway Technology,Hà Nội,IT phần mềm,1551,1,https://123job.vn/viec-lam/data-analyst-lead-dr8ZGP7RD4
+286,A9V8Qagbqn,Data Analyst (Lead),Công Ty Cổ Phần Công Nghệ Alphaway,Hà Nội,IT phần mềm,1628,1,https://123job.vn/viec-lam/data-analyst-lead-A9V8Qagbqn
+287,j9KQok6lqA,Chuyên Viên Cao Cấp Rủi Ro Gian Lận (Fraud Risk Data Analyst),Công Ty Cổ Phần Kinh Doanh F88,Hồ Chí Minh,Việc làm cấp cao,1738,0,https://123job.vn/viec-lam/chuyen-vien-cao-cap-rui-ro-gian-lan-fraud-risk-data-analyst-j9KQok6lqA
+288,29ALjaOJDJ,Nhân viên phân tích dữ liệu ( Data Analyst ),Công Ty Cổ Phần Bạch Minh Vega Corporation,Hà Nội,Phát triển thị trường,4109,1,https://123job.vn/viec-lam/nhan-vien-phan-tich-du-lieu-data-analyst-29ALjaOJDJ
+289,g9d1zxWyrk,Data Business Analyst ID12287,Vpbank,Hà Nội,Phát triển thị trường,963,0,https://123job.vn/viec-lam/data-business-analyst-id12287-g9d1zxWyrk
+290,59y7eLPaqL,"Middle to Senior Data Analyst SaaS, US product",Flodesk,Đà Nẵng,Phát triển thị trường,2441,0,https://123job.vn/viec-lam/middle-to-senior-data-analyst-saas-us-product-59y7eLPaqL
+291,JD60wd3Brn,Business Analyst - Data Hệ Thống Phân Phối - Chế Độ Tốt,Công Ty Cổ Phần Thương Mại Quốc Tế Lb Global,Hà Nội,Phát triển thị trường,1924,0,https://123job.vn/viec-lam/business-analyst-data-he-thong-phan-phoi-che-do-tot-JD60wd3Brn
+292,4qQ4oooXrX,"Analytics Engineer Data Engineer, Data Analyst",Amanotes,Hồ Chí Minh,IT phần mềm,4167,1,https://123job.vn/viec-lam/analytics-engineer-data-engineer-data-analyst-4qQ4oooXrX
+293,4q3Lp4ogD2,Chuyên Viên Phân Tích Dữ Liệu /Growth Data Analyst /Analytics Specialist( Lương Upto 35M+ Thưởng) Tại Hà Nội,Công Ty Cổ Phần Giáo Dục Educa Corporation,Kon Tum,Phát triển thị trường,3447,0,https://123job.vn/viec-lam/chuyen-vien-phan-tich-du-lieu-growth-data-analyst-analytics-specialist-luong-upto-35m-thuong-tai-ha-noi-4q3Lp4ogD2
+294,39Jmnn7eDm,Data Analyst (Tài Chính),Công Ty Vàng Bạc Đá Quý Bảo Tín Mạnh Hải,Hà Nội,IT phần mềm,1279,0,https://123job.vn/viec-lam/data-analyst-tai-chinh-39Jmnn7eDm
+295,BDnBzz2PDR,Chuyên Viên Phân Tích Dữ Liệu - Data Analyst,Tập Đoàn Vàng Bạc Đá Quý Doji,Hà Nội,Phát triển thị trường,194,0,https://123job.vn/viec-lam/chuyen-vien-phan-tich-du-lieu-data-analyst-BDnBzz2PDR
+296,59y7eep1qL,CHUYÊN VIÊN PHÂN TÍCH DỮ LIỆU DATA ANALYST,ThờI Trang Adidas - Công Ty Cổ PhầN ĐầU Tư Thương MạI PhượNg HoàNg,Hà Nội,Phát triển thị trường,2142,0,https://123job.vn/viec-lam/chuyen-vien-phan-tich-du-lieu-data-analyst-59y7eep1qL
+297,ArX8AdWmrV,Data Analyst (Lương Cứng Upto 40 Triệu/Tháng),Công Ty TNHH Các Giải Pháp Softel,Hồ Chí Minh,Nhân viên kinh doanh,5147,1,https://123job.vn/viec-lam/data-analyst-luong-cung-upto-40-trieu-thang-ArX8AdWmrV
+298,A9V8Edv5qn,Senior Data Analyst,Công Ty Golden Gate,Hồ Chí Minh,Phát triển thị trường,1213,1,https://123job.vn/viec-lam/senior-data-analyst-A9V8Edv5qn
+299,ArX8AMRerV,Data Analyst (Business Insight & AI),Công Ty Cổ Phần Thương Mại Dịch Vụ Cổng Vàng,Hà Nội,Phát triển thị trường,2499,1,https://123job.vn/viec-lam/data-analyst-business-insight-ai-ArX8AMRerV
+300,29GgoKXQ9E,Data Analyst (Tiếng Nhật),Công Ty TNHH Dr.Joy Việt Nam,Hà Nội,IT phần mềm,3318,1,https://123job.vn/viec-lam/data-analyst-tieng-nhat-29GgoKXQ9E
+301,Oq5MjE0Rqp,Data Analyst,Beyondsoft Vietnam,Unknown,Unknown,3773,1,https://123job.vn/viec-lam/data-analyst-Oq5MjE0Rqp
+302,y9Bwolb8rA,Data Analyst,Công Ty Cổ Phần Tập Đoàn Công Nghệ Thiên Hoàng,Unknown,Unknown,8575,1,https://123job.vn/viec-lam/data-analyst-y9Bwolb8rA
+303,59y7ZMJdqL,Data Analyst,Công Ty TNHH Krik Việt Nam,Unknown,Unknown,4636,1,https://123job.vn/viec-lam/data-analyst-59y7ZMJdqL
+304,JD60YmjVrn,DATA ANALYST,Mh Solution,Hà Nội,IT phần mềm,766,1,https://123job.vn/viec-lam/data-analyst-JD60YmjVrn
+305,1qwOawbjq8,Data Analyst,Công Ty TNHH Quess Corp Việt Nam,Unknown,Unknown,5852,1,https://123job.vn/viec-lam/data-analyst-1qwOawbjq8
+306,1qwORgjpq8,Data Analyst,Công Ty TNHH Giải Pháp Công Nghệ Apollo,Unknown,Unknown,7221,1,https://123job.vn/viec-lam/data-analyst-1qwORgjpq8
+307,w9vaKB1gD5,Senior Data Analyst,Công Ty Cổ Phần Công Nghệ Unitrust Việt Nam,Hà Nội,Phát triển thị trường,1512,1,https://123job.vn/viec-lam/senior-data-analyst-w9vaKB1gD5
+308,Oq5ManE8qp,Senior Data Analyst,Vinsmart Future,Hồ Chí Minh,Phát triển thị trường,2153,1,https://123job.vn/viec-lam/senior-data-analyst-Oq5ManE8qp
+309,LDlWzlP0q6,Business Data Analyst,Viettel Digital,Unknown,Unknown,7405,1,https://123job.vn/viec-lam/business-data-analyst-LDlWzlP0q6
+310,Oq5Mawo8qp,Data Analyst,Inwave Studio,Hà Nội,IT phần mềm,1919,1,https://123job.vn/viec-lam/data-analyst-Oq5Mawo8qp
+311,W9pX1Wb49p,Junior Backend (NextJS/Tanstack Start),Công Ty Cổ Phần Housenow,Hà Nội,IT phần mềm,2699,1,https://123job.vn/viec-lam/junior-backend-nextjs-tanstack-start-W9pX1Wb49p
+312,4q3Lpxd8D2,Backend 2026,Công Ty Cổ Phần Truyền Thông Văn Hoá Việt,Hà Nội,IT phần mềm,1492,1,https://123job.vn/viec-lam/backend-2026-4q3Lpxd8D2
+313,G9xYw5w3rN,Senior Backend Engineer,Công Ty TNHH Thương Mại Khánh Hà,Hà Nội,IT phần mềm,1743,1,https://123job.vn/viec-lam/senior-backend-engineer-G9xYw5w3rN
+314,yDNQMNM0qz,Staff Backend Engineer,Be Group,Hồ Chí Minh,IT phần mềm,3024,1,https://123job.vn/viec-lam/staff-backend-engineer-yDNQMNM0qz
+315,BqP4o1WVqz,[Junior] Backend Engineer (Golang),Công Ty TNHH Anfin,Hồ Chí Minh,IT phần mềm,853,1,https://123job.vn/viec-lam/junior-backend-engineer-golang-BqP4o1WVqz
+316,29GgoJlb9E,Backend Developer (Cloud),Panasonic Việt Nam,Hà Nội,IT phần mềm,4779,1,https://123job.vn/viec-lam/backend-developer-cloud-29GgoJlb9E
+317,29Ggolw49E,"Senior .Net Backend Developer (C#, Reactjs, English)",Công Ty TNHH Nextthink Technologies,Hồ Chí Minh,IT phần mềm,723,1,https://123job.vn/viec-lam/senior-net-backend-developer-c-reactjs-english-29Ggolw49E
+318,yreJzxnZqz,Senior Backend Developer - Quận 1 HCM - Upto 35 Triệu,Công Ty TNHH Aioz Việt Nam,Hồ Chí Minh,IT phần mềm,468,1,https://123job.vn/viec-lam/senior-backend-developer-quan-1-hcm-upto-35-trieu-yreJzxnZqz
+319,g9d1zYM4rk,Backend Engineer (Middle – Senior) | Thu Nhập 30 – 45 Triệu Gross + Thưởng Dự Án/KPI,Công Ty TNHH Một Thành Viên Công Nghệ Và Thương Mại Wiinvent,Hà Nội,IT phần mềm,759,0,https://123job.vn/viec-lam/backend-engineer-middle-senior-thu-nhap-30-45-trieu-gross-thuong-du-an-kpi-g9d1zYM4rk
+320,W9pX15NX9p,Senior Backend Developer - Quận 1 Hồ Chí Minh - Up to 35 Triệu,Công Ty TNHH Aioz Việt Nam,Hồ Chí Minh,IT phần mềm,469,1,https://123job.vn/viec-lam/senior-backend-developer-quan-1-ho-chi-minh-up-to-35-trieu-W9pX15NX9p
+321,w9vaKkybD5,Nhân Viên Frontend Developer (Reactjs / Next.js),Công Ty Cổ Phần Én Việt,Hồ Chí Minh,IT phần mềm,1917,1,https://123job.vn/viec-lam/nhan-vien-frontend-developer-reactjs-nextjs-w9vaKkybD5
+322,ND4ZKKBxrv,"Frontend Developer JavaScript, TypeScript, NodeJS",Sqreem Technologies (VN) Pte. Ltd.,Hồ Chí Minh,IT phần mềm,3781,1,https://123job.vn/viec-lam/frontend-developer-javascript-typescript-nodejs-ND4ZKKBxrv
+323,mrEQon1Qra,Frontend Developer,Hd Daison,Hồ Chí Minh,IT phần mềm,989,0,https://123job.vn/viec-lam/frontend-developer-mrEQon1Qra
+324,29GgKXmy9E,INTERN FRONTEND DEVELOPER,Easy Ai,Hồ Chí Minh,IT phần mềm,1024,1,https://123job.vn/viec-lam/intern-frontend-developer-29GgKXmy9E
+325,5DOVow2gqV,Frontend ReactJS Developer,Lg Cns Việt Nam,Hà Nội,IT phần mềm,254,1,https://123job.vn/viec-lam/frontend-reactjs-developer-5DOVow2gqV
+326,P9YVo6xLra,Frontend Developer,Nextedge,Hồ Chí Minh,IT phần mềm,3169,1,https://123job.vn/viec-lam/frontend-developer-P9YVo6xLra
+327,yDNQMl4Bqz,Frontend Engineer,Mac Marketing,Hồ Chí Minh,IT phần mềm,2658,1,https://123job.vn/viec-lam/frontend-engineer-yDNQMl4Bqz
+328,G9xYwZM6rN,Senior Frontend Developer,Chi Nhánh Arobid - Công Ty CP Tầm Nhìn Mới,Hồ Chí Minh,IT phần mềm,2461,1,https://123job.vn/viec-lam/senior-frontend-developer-G9xYwZM6rN
+329,W9pX16w59p,Frontend Developer Angular,Oivan,Hồ Chí Minh,IT phần mềm,704,1,https://123job.vn/viec-lam/frontend-developer-angular-W9pX16w59p
+330,JDajzAR69G,Senior Frontend Dev English,Ivc (Isb Vietnam),Hồ Chí Minh,IT phần mềm,1059,1,https://123job.vn/viec-lam/senior-frontend-dev-english-JDajzAR69G
+331,yreJzYxJqz,Developer (Frontend),Gimasys,Unknown,Unknown,4784,1,https://123job.vn/viec-lam/developer-frontend-yreJzYxJqz
+332,3q273bGpDM,"Senior Frontend Engineer Banking, Typescript",Raksul Vietnam,Unknown,Unknown,5563,1,https://123job.vn/viec-lam/senior-frontend-engineer-banking-typescript-3q273bGpDM
+333,29Ggoex49E,Frontend Engineer ReactJS,Hubble Pte. Ltd,Hồ Chí Minh,IT phần mềm,588,1,https://123job.vn/viec-lam/frontend-engineer-reactjs-29Ggoex49E
+334,w9vaKjdJD5,Junior Frontend Developer (Eng),Nextedge,Hồ Chí Minh,IT phần mềm,2565,1,https://123job.vn/viec-lam/junior-frontend-developer-eng-w9vaKjdJD5
+335,39JmnYYKDm,Frontend Engineer ReactJS - Fintech,Naver Vietnam,Hồ Chí Minh,IT phần mềm,1068,1,https://123job.vn/viec-lam/frontend-engineer-reactjs-fintech-39JmnYYKDm
+336,vrzBGl8dr0,Frontend Developer (Angular),Công Ty TNHH Vba Technology,Unknown,Unknown,5798,1,https://123job.vn/viec-lam/frontend-developer-angular-vrzBGl8dr0
+337,g9d1zwJerk,"Frontend ReactJS Developer JavaScript, HTML/CSS",Công Ty Cổ Phần Hàng Hải Vsico,Unknown,Unknown,7015,1,https://123job.vn/viec-lam/frontend-reactjs-developer-javascript-html-css-g9d1zwJerk
+338,lroWzd5er4,"Senior Frontend Web Developer HTML5, CSS3",Vision Advisory & Analytics,Unknown,Unknown,5282,1,https://123job.vn/viec-lam/senior-frontend-web-developer-html5-css3-lroWzd5er4
+339,ND4ZK4ozrv,Mobile App Frontend Developer,Công Ty Cổ Phần Đầu Tư Thế Giới Di Động,Unknown,Unknown,5326,1,https://123job.vn/viec-lam/mobile-app-frontend-developer-ND4ZK4ozrv
+340,ND4ZKG1Yrv,"Junior + Senior Frontend Developer (Bank, Finance)",Công Ty Cổ Phần Tập Đoàn Công Nghệ Thiên Hoàng,Hà Nội,IT phần mềm,3228,1,https://123job.vn/viec-lam/junior-senior-frontend-developer-bank-finance-ND4ZKG1Yrv
+341,v91BPEKerW,[HCM] Công Ty Plus Impact Tuyển Dụng Nhân Viên Frontend Developer Full-time 2026,Plus Impact Pte.Ltd,Hồ Chí Minh,IT phần mềm,2156,1,https://123job.vn/viec-lam/hcm-cong-ty-plus-impact-tuyen-dung-nhan-vien-frontend-developer-full-time-2026-v91BPEKerW
+342,w9vaK36gD5,[MarTech] Senior Frontend Engineer,The Purpose Group,Hồ Chí Minh,IT phần mềm,2298,1,https://123job.vn/viec-lam/martech-senior-frontend-engineer-w9vaK36gD5
+343,Oq5Ma8Rnqp,Staff Frontend Automation QA,What3Words,Unknown,Unknown,8845,1,https://123job.vn/viec-lam/staff-frontend-automation-qa-Oq5Ma8Rnqp
+344,A9V8Qwa6qn,Can Tho FrontEnd Developer,Công Ty TNHH Nextedge,Cần Thơ,IT phần mềm,581,0,https://123job.vn/viec-lam/can-tho-frontend-developer-A9V8Qwa6qn
+345,LqkEz47d93,Senior Mobile Developer,Công Ty TNHH Ia-Data Tech Vietnam,Hồ Chí Minh,IT phần mềm,1501,1,https://123job.vn/viec-lam/senior-mobile-developer-LqkEz47d93
+346,w9vaKLblD5,Nhân viên mobile developer,Công Ty TNHH Vos360 - Giải Pháp Vận Hành Việt,An Giang,IT phần mềm,1270,1,https://123job.vn/viec-lam/nhan-vien-mobile-developer-w9vaKLblD5
+347,29ALjAL3DJ,Mobile Developer,Moniva Viet Nam,Hồ Chí Minh,IT phần mềm,4434,1,https://123job.vn/viec-lam/mobile-developer-29ALjAL3DJ
+348,yreJz6a0qz,Mobile Developer,Vnext Software,Unknown,Unknown,7149,1,https://123job.vn/viec-lam/mobile-developer-yreJz6a0qz
+349,dr8ZG3MvD4,Middle/Senior Mobile Developer,Hd Securities Corporation,Hồ Chí Minh,IT phần mềm,1628,1,https://123job.vn/viec-lam/middle-senior-mobile-developer-dr8ZG3MvD4
+350,0q77gXQzq8,Mobile Developer Intern (Swift/Kotlin/Flutter),Công Ty Chứng Khoán Phú Hưng,Hồ Chí Minh,IT phần mềm,1708,1,https://123job.vn/viec-lam/mobile-developer-intern-swift-kotlin-flutter-0q77gXQzq8
+351,KqLaN0d7D1,Middle Mobile Developer (IOS/Android/Flutter),Công Ty Cổ Phần Misa,Unknown,Unknown,6318,1,https://123job.vn/viec-lam/middle-mobile-developer-ios-android-flutter-KqLaN0d7D1
+352,5qmEzXd4q8,Senior Mobile Developer Native iOS Android,Nec Vietnam,Hồ Chí Minh,IT phần mềm,1168,1,https://123job.vn/viec-lam/senior-mobile-developer-native-ios-android-5qmEzXd4q8
+353,g9d1zX8drk,"Senior Full-stack Mobile Developer Flutter, React",Digital Unicorn,Đà Nẵng,IT phần mềm,653,1,https://123job.vn/viec-lam/senior-full-stack-mobile-developer-flutter-react-g9d1zX8drk
+354,3qZazP0mr4,"Mobile Developer Flutter, ReactJS, Angular, C#, Java",Bidv Securities Company (Bsc),Hà Nội,IT phần mềm,164,1,https://123job.vn/viec-lam/mobile-developer-flutter-reactjs-angular-c-java-3qZazP0mr4
+355,5DOVo6VJqV,Phát Triển Mobile Developer IOS/Android React Native TypeScript,Edufit,Hà Nội,IT phần mềm,1778,1,https://123job.vn/viec-lam/phat-trien-mobile-developer-ios-android-react-native-typescript-5DOVo6VJqV
+356,4qQ42NEJrX,[HCM] Công Ty Plus Impact Tuyển Dụng Nhân Viên Mobile Developer (Flutter/React Native/Native) Full-time 2026,Plus Impact Pte.Ltd,Unknown,Unknown,5892,1,https://123job.vn/viec-lam/hcm-cong-ty-plus-impact-tuyen-dung-nhan-vien-mobile-developer-flutter-react-native-native-full-time-2026-4qQ42NEJrX
+357,4q3LpaZQD2,CHUYÊN VIÊN PHÁT TRIỂN ỨNG DỤNG (MOBILE DEVELOPER),Ngân Hàng Tmcp Sài Gòn Thương Tín (Sacombank),Unknown,Unknown,4901,1,https://123job.vn/viec-lam/chuyen-vien-phat-trien-ung-dung-mobile-developer-4q3LpaZQD2
+358,JD60wBRRrn,"Mobile Developer Flutter, React Native, CI/CD, MVVM",Vnext Software,Unknown,Unknown,6741,1,https://123job.vn/viec-lam/mobile-developer-flutter-react-native-ci-cd-mvvm-JD60wBRRrn
+359,3q273jMpDM,Middle Flutter Developer Mobile App,Nam Viet JSC,Hà Nội,IT phần mềm,770,1,https://123job.vn/viec-lam/middle-flutter-developer-mobile-app-3q273jMpDM
+360,BqP4oel5qz,Mobile Game Developer Fullstack 5 nam Kinh nghiem,568E,Hồ Chí Minh,IT phần mềm,977,1,https://123job.vn/viec-lam/mobile-game-developer-fullstack-5-nam-kinh-nghiem-BqP4oel5qz
+361,dr8ZGAgkD4,Flutter Product Engineer Mobile App Developer,Workbuddy,Unknown,Unknown,8736,1,https://123job.vn/viec-lam/flutter-product-engineer-mobile-app-developer-dr8ZGAgkD4
+362,BqP4og3Xqz,"Remote Mobile Game Developer Upto 2,000",Ateam Việt Nam,Hồ Chí Minh,IT phần mềm,469,1,https://123job.vn/viec-lam/remote-mobile-game-developer-upto-2000-BqP4og3Xqz
+363,LqkEzaNO93,Junior Flutter Developer iOS Android Mobile Only,Qualityrealty,Unknown,Unknown,7654,1,https://123job.vn/viec-lam/junior-flutter-developer-ios-android-mobile-only-LqkEzaNO93
+364,G9xYwX8arN,[Online] Nền Tảng Y Tế Điện Tử Doctogo Tuyển Dụng Nhân Viên Developer Angular Web Mobile Full-time 2026,Nguyễn Quốc Bảo,Unknown,Unknown,7566,1,https://123job.vn/viec-lam/online-nen-tang-y-te-dien-tu-doctogo-tuyen-dung-nhan-vien-developer-angular-web-mobile-full-time-2026-G9xYwX8arN
+365,G9xY6bo5rN,"[Online] Công Ty JETOSTACK Tuyển Dụng Nhân Viên Fullstack Developer (.NET, Angular, N8n, MCP Server, Flutter - Mobile App) Full-time 2026",Cẩm Hồng Huỳnh,Unknown,Unknown,7260,1,https://123job.vn/viec-lam/online-cong-ty-jetostack-tuyen-dung-nhan-vien-fullstack-developer-net-angular-n8n-mcp-server-flutter-mobile-app-full-time-2026-G9xY6bo5rN
+366,w9vaKeQYD5,Mendix Developer Low-Code,Cube System Việt Nam,Unknown,Unknown,3812,0,https://123job.vn/viec-lam/mendix-developer-low-code-w9vaKeQYD5
+367,g9d1ROBYrk,Software Engineer (Senior),Công Ty TNHH Giftee Tech Vietnam,Điện Biên,IT phần mềm,2747,1,https://123job.vn/viec-lam/software-engineer-senior-g9d1ROBYrk
+368,4q3LpjxgD2,Software Engineer Intern - Front End,Edtronaut,Hồ Chí Minh,IT phần mềm,5226,1,https://123job.vn/viec-lam/software-engineer-intern-front-end-4q3LpjxgD2
+369,P9YVo7llra,Software Engineer - Back End,Edtronaut,Hồ Chí Minh,IT phần mềm,4924,1,https://123job.vn/viec-lam/software-engineer-back-end-P9YVo7llra
+370,JDajzABl9G,Software Engineer Intern - Fullstack,Edtronaut,Hồ Chí Minh,IT phần mềm,5096,1,https://123job.vn/viec-lam/software-engineer-intern-fullstack-JDajzABl9G
+371,ArX8AeQZrV,Staff Software Engineer,Be Group,Hồ Chí Minh,IT phần mềm,3024,1,https://123job.vn/viec-lam/staff-software-engineer-ArX8AeQZrV
+372,vrzBGWZmr0,Intern Embedded Software Engineer,The Rep. Office Of Styl Solutions Pte. Ltd. In Hcmc,Hồ Chí Minh,IT phần mềm,301,0,https://123job.vn/viec-lam/intern-embedded-software-engineer-vrzBGWZmr0
+373,3qZazzMmr4,C++ Software Engineer,"Toshiba Software Development (Viet Nam) Co, Ltd",Hà Nội,IT phần mềm,614,1,https://123job.vn/viec-lam/c-software-engineer-3qZazzMmr4
+374,59y7eL4yqL,Nhân Viên Software Tester / QA Engineer,Công Ty Cổ Phần Én Việt,Hồ Chí Minh,QA-QC/ Thẩm định/ Giám định,2521,1,https://123job.vn/viec-lam/nhan-vien-software-tester-qa-engineer-59y7eL4yqL
+375,W9pX11bO9p,Senior Software Engineer Javascipt,Inspectorio,Hồ Chí Minh,IT phần mềm,2275,1,https://123job.vn/viec-lam/senior-software-engineer-javascipt-W9pX11bO9p
+376,A9V8QvXPqn,"Senior Software Engineer Java, J2EE, SQL","Tpisoftware Co., Ltd",Hồ Chí Minh,IT phần mềm,1214,1,https://123job.vn/viec-lam/senior-software-engineer-java-j2ee-sql-A9V8QvXPqn
+377,n9RwoopYrb,"Software Engineer Embedded C, MCU, RTOS",Lg Electronics Development Vietnam (Lgedv),Hà Nội,IT phần mềm,864,1,https://123job.vn/viec-lam/software-engineer-embedded-c-mcu-rtos-n9RwoopYrb
+378,5DOVopjdqV,Kỹ Sư Phần Mềm - SOFTWARE ENGINEER,Công Ty TNHH Cresyn Hà Nội,Bắc Ninh,IT phần mềm,603,1,https://123job.vn/viec-lam/ky-su-phan-mem-software-engineer-5DOVopjdqV
+379,y9BwbZY8rA,[HN] Software Engineer (fullstack),Base Inc,Hà Nội,IT phần mềm,5071,1,https://123job.vn/viec-lam/hn-software-engineer-fullstack-y9BwbZY8rA
+380,3qZaz34vr4,Software Engineer,Vinsmart Future,Unknown,Unknown,10431,1,https://123job.vn/viec-lam/software-engineer-3qZaz34vr4
+381,JD60w5KVrn,Software Engineer Intern,Taptap,Hồ Chí Minh,IT phần mềm,877,1,https://123job.vn/viec-lam/software-engineer-intern-JD60w5KVrn
+382,0q77eWZEq8,Software Engineer,Công Ty Cổ Phần Open Healthcare Việt Nam,Unknown,Unknown,6378,1,https://123job.vn/viec-lam/software-engineer-0q77eWZEq8
+383,4q3LpwVYD2,Software Engineer,Công Ty TNHH Giải Pháp Brain Tech,Unknown,Unknown,6838,1,https://123job.vn/viec-lam/software-engineer-4q3LpwVYD2
+384,G9xYwVm3rN,Software Engineer,Teko Vietnam,Hà Nội,IT phần mềm,1073,0,https://123job.vn/viec-lam/software-engineer-G9xYwVm3rN
+385,lroWzdZ0r4,Software Engineer,Deliveree On-Demand Logistics,Hồ Chí Minh,IT phần mềm,1669,0,https://123job.vn/viec-lam/software-engineer-lroWzdZ0r4
+386,0q77eGpzq8,Middle Software Engineer /,M_Service (Momo),Hồ Chí Minh,IT phần mềm,676,1,https://123job.vn/viec-lam/middle-software-engineer-0q77eGpzq8
+387,4q3LpKdBD2,AI Software Engineer,Atomi Digital,Hồ Chí Minh,IT phần mềm,748,1,https://123job.vn/viec-lam/ai-software-engineer-4q3LpKdBD2
+388,4qQ4oxXGrX,Software Engineer / Technical Engineer,Si Cyber Security Architecture Co Fzco,Unknown,Unknown,3702,1,https://123job.vn/viec-lam/software-engineer-technical-engineer-4qQ4oxXGrX
+389,W9pX1zRj9p,Java Software Engineer,Compax,Hà Nội,IT phần mềm,1997,1,https://123job.vn/viec-lam/java-software-engineer-W9pX1zRj9p
+390,LDlWzA0Bq6,Senior Software Engineer,Văn Phòng Đại Diện Tại Hồ Chí Minh,Hồ Chí Minh,IT phần mềm,2205,1,https://123job.vn/viec-lam/senior-software-engineer-LDlWzA0Bq6
+391,lroWzXL2r4,Tuyển dụng Tester,Công Ty Cổ Phần Global Solution Technology Viet Nam,Hà Nội,QA-QC/ Thẩm định/ Giám định,1674,0,https://123job.vn/viec-lam/tuyen-dung-tester-lroWzXL2r4
+392,ArX8Ab5erV,Performance Tester,Viettel Cyber Security,Hà Nội,Marketing - PR,2755,1,https://123job.vn/viec-lam/performance-tester-ArX8Ab5erV
+393,A9V8QW55qn,Manual Tester (Web-Mobile),Viettel Cyber Security,Hà Nội,QA-QC/ Thẩm định/ Giám định,3718,1,https://123job.vn/viec-lam/manual-tester-web-mobile-A9V8QW55qn
+394,3qZazlLvr4,Fresher SQA/ Tester Engineer,Công Ty TNHH Ngân Hàng Phần Mềm Tổng Hợp Việt Nam (Tsb Vietnam),Hải Phòng,QA-QC/ Thẩm định/ Giám định,230,0,https://123job.vn/viec-lam/fresher-sqa-tester-engineer-3qZazlLvr4
+395,P9YVok1Lra,Software Tester Intern,Công Ty TNHH Itc Group,Hồ Chí Minh,QA-QC/ Thẩm định/ Giám định,1520,0,https://123job.vn/viec-lam/software-tester-intern-P9YVok1Lra
+396,29ALjvBnDJ,Manual Tester (Banking - Hợp đồng ngắn hạn 2 tháng),Digi-Texx Vietnam,Hồ Chí Minh,QA-QC/ Thẩm định/ Giám định,305,1,https://123job.vn/viec-lam/manual-tester-banking-hop-dong-ngan-han-2-thang-29ALjvBnDJ
+397,yDNQMxPdqz,Nhân Viên Tester,Công Ty TNHH America Quartz Technolog,Thừa Thiên Huế,QA-QC/ Thẩm định/ Giám định,384,0,https://123job.vn/viec-lam/nhan-vien-tester-yDNQMxPdqz
+398,y9BwYgjPrA,Nhân viên Kiểm thử-Tester,Zinza,Hà Nội,QA-QC/ Thẩm định/ Giám định,433,0,https://123job.vn/viec-lam/nhan-vien-kiem-thu-tester-y9BwYgjPrA
+399,3qZazRdxr4,Manual Tester (Test Data) (LEader),Công Ty Cổ Phần Công Nghệ Alphaway,Hà Nội,QA-QC/ Thẩm định/ Giám định,2082,1,https://123job.vn/viec-lam/manual-tester-test-data-leader-3qZazRdxr4
+400,JD60wJBMrn,Nhân viên kiểm thử (Tester),Công Ty Cổ Phần Bạch Minh Vega Corporation,Hà Nội,QA-QC/ Thẩm định/ Giám định,2406,1,https://123job.vn/viec-lam/nhan-vien-kiem-thu-tester-JD60wJBMrn
+401,29ALj44ODJ,Senior Tester (Automation/Manual) - ID1792,Ngân Hàng Tmcp Việt Nam Thịnh Vượng (Vpbank),Hà Nội,QA-QC/ Thẩm định/ Giám định,2285,1,https://123job.vn/viec-lam/senior-tester-automation-manual-id1792-29ALj44ODJ
+402,lroWzllLr4,Chuyên Viên Kiểm Thử Phần Mềm Tester,Công Ty Cổ Phần Xnk Đầu Tư Và Công Nghệ Hd Việt Nam,Hà Nội,QA-QC/ Thẩm định/ Giám định,4403,1,https://123job.vn/viec-lam/chuyen-vien-kiem-thu-phan-mem-tester-lroWzllLr4
+403,W9pX1WX89p,Tester Tiếng Nhật Online Part-time,Công Ty Cổ Phần Công Nghệ Giáo Dục Edte,Hà Nội,Giáo dục - Đào tạo,293,0,https://123job.vn/viec-lam/tester-tieng-nhat-online-part-time-W9pX1WX89p
+404,yDNQ2b6Bqz,Software Tester (Automation & Manual),"Teqnological Asia Co., Ltd",Hồ Chí Minh,QA-QC/ Thẩm định/ Giám định,2469,1,https://123job.vn/viec-lam/software-tester-automation-manual-yDNQ2b6Bqz
+405,g9d1zxYQrk,Game Tester (Casual/Puzzle) - Kiểm Thử Game,Sonatgame Studio,Hà Nội,QA-QC/ Thẩm định/ Giám định,2616,1,https://123job.vn/viec-lam/game-tester-casual-puzzle-kiem-thu-game-g9d1zxYQrk
+406,0q77emyXq8,Software Tester (Manual QA) - Lương Upto 20M,Công Ty TNHH Công Nghệ Woo,Hà Nội,QA-QC/ Thẩm định/ Giám định,5742,1,https://123job.vn/viec-lam/software-tester-manual-qa-luong-upto-20m-0q77emyXq8
+407,BqP4odLRqz,Nhân Viên Kiểm Thử Phần Mềm (Tester),Công Ty TNHH Giải Pháp Phần Mềm Doanh Nghiệp 5S,Cần Thơ,QA-QC/ Thẩm định/ Giám định,1096,0,https://123job.vn/viec-lam/nhan-vien-kiem-thu-phan-mem-tester-BqP4odLRqz
+408,dr8ZGJJPD4,Chuyên Viên Kiểm Thử Phần Mềm (Tester) - 2 Năm Kinh Nghiệm - Thu Nhập Upto 25M - Tại Hà Nội,Công Ty Cổ Phần Công Nghệ Số Vci.,Hà Nội,QA-QC/ Thẩm định/ Giám định,2855,1,https://123job.vn/viec-lam/chuyen-vien-kiem-thu-phan-mem-tester-2-nam-kinh-nghiem-thu-nhap-upto-25m-tai-ha-noi-dr8ZGJJPD4
+409,3qZaK5PQr4,Software Tester,Unit Technology Corporation,Hồ Chí Minh,QA-QC/ Thẩm định/ Giám định,1949,1,https://123job.vn/viec-lam/software-tester-3qZaK5PQr4
+410,0q77eA08q8,Junior/ Senior Full-stack Tester Auto Manual,Kms Technology,Hồ Chí Minh,IT phần mềm,744,0,https://123job.vn/viec-lam/junior-senior-full-stack-tester-auto-manual-0q77eA08q8
+411,j9KQojMnqA,Middel Tester - HQV,Công Ty Cổ Phần Công Nghệ Unitrust Việt Nam,Hà Nội,QA-QC/ Thẩm định/ Giám định,935,1,https://123job.vn/viec-lam/middel-tester-hqv-j9KQojMnqA
+412,4q3LpxW5D2,Nhân Viên Kiểm Thử Phần Mềm (Tester) - Lương 13 - 18 Triệu,Công Ty TNHH Công Nghệ Pion,Hà Nội,QA-QC/ Thẩm định/ Giám định,1293,1,https://123job.vn/viec-lam/nhan-vien-kiem-thu-phan-mem-tester-luong-13-18-trieu-4q3LpxW5D2
+413,BDnBzzzQDR,Automation Tester ERP,Cellphones,Hồ Chí Minh,QA-QC/ Thẩm định/ Giám định,1162,1,https://123job.vn/viec-lam/automation-tester-erp-BDnBzzzQDR
+414,o9jyOw7gDR,[Online-HN] Hệ Thống Anh Ngữ ALES Tuyển Dụng Nhân Viên Tester Tiếng Anh Part-time 2026,Ales Career,Hà Nội,Giáo dục - Đào tạo,2213,0,https://123job.vn/viec-lam/online-hn-he-thong-anh-ngu-ales-tuyen-dung-nhan-vien-tester-tieng-anh-part-time-2026-o9jyOw7gDR
+415,LDlWzLxkq6,[HN] Công Ty Thương Mại Điện Tử The Human Inc Tuyển Dụng Nhân Viên Tester - Kiểm Thử Phần Mềm Wealify Full-time 2026,The Human Inc,Hà Nội,QA-QC/ Thẩm định/ Giám định,4580,1,https://123job.vn/viec-lam/hn-cong-ty-thuong-mai-dien-tu-the-human-inc-tuyen-dung-nhan-vien-tester-kiem-thu-phan-mem-wealify-full-time-2026-LDlWzLxkq6
+416,3q273BRdDM,"Manual Tester QA/QC, Good English",Netcompany,Hồ Chí Minh,QA-QC/ Thẩm định/ Giám định,827,0,https://123job.vn/viec-lam/manual-tester-qa-qc-good-english-3q273BRdDM
+417,ArX8AAQmrV,"Senior QA Manager QA/QC, Tester, English",Nakivo,Hồ Chí Minh,QA-QC/ Thẩm định/ Giám định,2173,0,https://123job.vn/viec-lam/senior-qa-manager-qa-qc-tester-english-ArX8AAQmrV
+418,dr8ZGGWvD4,Tester Tiếng Nhật Online Part-time,Công Ty Cổ Phần Công Nghệ Giáo Dục Edte,Hà Nội,Giáo dục - Đào tạo,287,0,https://123job.vn/viec-lam/tester-tieng-nhat-online-part-time-dr8ZGGWvD4
+419,1qwOad3nq8,"QC Tester SQL, Jira, ERP, AI",Ai+Di,Hồ Chí Minh,QA-QC/ Thẩm định/ Giám định,781,1,https://123job.vn/viec-lam/qc-tester-sql-jira-erp-ai-1qwOad3nq8
+420,G9xYyjAarN,Prompt Engineer Intern (No-code/Low-code),Công Ty Cổ Phần Innotech Việt Nam,Bình Dương,IT phần mềm,2487,1,https://123job.vn/viec-lam/prompt-engineer-intern-no-code-low-code-G9xYyjAarN
+421,PDbovva69R,DevOps (AWS - Azure),Công Ty Cổ Phần Sotatek,Unknown,Unknown,7324,1,https://123job.vn/viec-lam/devops-aws-azure-PDbovva69R
+422,3q273xKBDM,DevOps Engineer,FPT Software,Unknown,Unknown,4941,1,https://123job.vn/viec-lam/devops-engineer-3q273xKBDM
+423,y9BwYweerA,DevOps Engineer,TMA Solutions,Unknown,Unknown,4853,1,https://123job.vn/viec-lam/devops-engineer-y9BwYweerA
+424,JDajZYN59G,DevOps Engineer,Công Ty Cổ Phần Công Nghệ Sapo (Sapo Technology JSC),Hồ Chí Minh,IT phần mềm,1153,1,https://123job.vn/viec-lam/devops-engineer-JDajZYN59G
+425,BqP4oQoWqz,Devops Engineer,Unknown,Unknown,Unknown,6993,1,https://123job.vn/viec-lam/devops-engineer-BqP4oQoWqz
